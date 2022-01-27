@@ -1,0 +1,23 @@
+{
+  "name": "codbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddzik19/cod-bot.git"
+  },
+  "author": "Damian Dzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddzik19/cod-bot/issues"
+  },
+  "homepage": "https://github.com/ddzik19/cod-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2"
+  }
+}
