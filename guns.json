@@ -1,0 +1,364 @@
+{
+    "guns":[
+        {
+            "tag":"cw",
+            "name":"ots9",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter combat",
+            "title":"Ots9",
+            "image":"./images/ots9.png",
+            "short":"ots9.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"GRU Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"8.1 Task Force",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tiger Team Spotlight",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"KGB Skeletal Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"VDV 40 Rnd Fast Mag",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"mac10",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter combat with good medium range damage",
+            "title":"Mac-10",
+            "image":"./images/mac10.png",
+            "short":"mac10.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"5.9 Task Force",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Bruiser Grip",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Raider Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 50 Rnd Drum",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"ak74u",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter combat with good medium range damage",
+            "title":"Ak74u",
+            "image":"./images/ak74u.png",
+            "short":"ak74u.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Gru Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"10.3 Task Force",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tiger Team Spotlight",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"KGB Skeletal Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Spetsnaz 50 Rnd Drum",
+                "inline":true
+            }]
+        },
+                {
+            "tag":"cw",
+            "name":"mp5",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter combat",
+            "title":"Mp5",
+            "image":"./images/mp5.png",
+            "short":"mp5.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tiger Team Spotlight",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Raider Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 50 Rnd Drum",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"milano",
+            "color":"#DA1717",
+            "desc":"SMG used for long range with an AR as secondary.",
+            "title":"Milano",
+            "image":"./images/milano.png",
+            "short":"milano.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"10.5 Ranger",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 55 Rnd Drum",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"lapa",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter combat",
+            "title":"Lapa",
+            "image":"./images/lapa.png",
+            "short":"lapa.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tiger Team Spotlight",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Microflex LED",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"SAS Combat Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 50 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"bullfrog",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter combat with good medium range damage",
+            "title":"Bullfrog",
+            "image":"./images/bullfrog.png",
+            "short":"bullfrog.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Gru Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"7.4 Task Force",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tiger Team spotlight",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Spetsnaz PKM Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"65 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"streetsweeper",
+            "color":"#DA1717",
+            "desc":"Shotgun with lethal close range damage and long range",
+            "title":"Streetsweeper",
+            "image":"./images/streetsweeper.png",
+            "short":"streetsweeper.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Choke",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"13.3 Reinforced Heavy",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Ember Sighting Point",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"SAS Combat Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Stanag 18 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"gallo",
+            "color":"#DA1717",
+            "desc":"Shotgun with lethal close range damage and long range",
+            "title":"Gallo",
+            "image":"./images/gallo.png",
+            "short":"gallo.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Duckbill Choke",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"24.6 Ranger",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Swat 5mw Laser Sight",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 12 Rnd Tube",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Field Tape",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"ak47lr",
+            "color":"#DA1717",
+            "desc":"Long range AR with slight vertical recoild",
+            "title":"Ak-47",
+            "image":"./images/ak47LR.png",
+            "short":"ak47LR.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"GRU Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"20 Spetnaz RPK Barrel",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Spetsnaz Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"45 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"ak47cqb",
+            "color":"#DA1717",
+            "desc":"Close range AR with good movespeed and range, used with sniper secondary",
+            "title":"Ak-47",
+            "image":"./images/ak47CQB.png",
+            "short":"ak47CQB.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"GRU Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"18.2 VDV Reinforced",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tiger Team Spotlight",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"KGB Skeletal Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Taped Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"c58",
+            "color":"#DA1717",
+            "desc":"Long range AR with good range and damage with a decent amount of vertical recoil",
+            "title":"C-58",
+            "image":"./images/c58.png",
+            "short":"c58.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"18.7 Ranger",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 55 Rnd",
+                "inline":true
+            }]
+        }
+    ]
+}

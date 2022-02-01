@@ -28,7 +28,7 @@ module.exports = {
                 value: 'SMG',
                 inline: true
             }, {
-                name: "mac",
+                name: "mac10",
                 value: 'SMG',
                 inline: true
             }, {
@@ -40,7 +40,11 @@ module.exports = {
                 value: 'SMG',
                 inline: true
             }, {
-                name: "ak47",
+                name: "ak47lr",
+                value: 'AR',
+                inline: true
+            }, {
+                name: "ak47cqb",
                 value: 'AR',
                 inline: true
             }, {
