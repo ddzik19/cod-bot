@@ -6,7 +6,7 @@
             "color":"#DA1717",
             "desc":"SMG for close quarter combat",
             "title":"Ots9",
-            "image":"./images/ots9.png",
+            "image":"./images/cw/ots9.png",
             "short":"ots9.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -36,7 +36,7 @@
             "color":"#DA1717",
             "desc":"SMG for close quarter combat with good medium range damage",
             "title":"Mac-10",
-            "image":"./images/mac10.png",
+            "image":"./images/cw/mac10.png",
             "short":"mac10.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -66,7 +66,7 @@
             "color":"#DA1717",
             "desc":"SMG for close quarter combat with good medium range damage",
             "title":"Ak74u",
-            "image":"./images/ak74u.png",
+            "image":"./images/cw/ak74u.png",
             "short":"ak74u.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -96,7 +96,7 @@
             "color":"#DA1717",
             "desc":"SMG for close quarter combat",
             "title":"Mp5",
-            "image":"./images/mp5.png",
+            "image":"./images/cw/mp5.png",
             "short":"mp5.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -126,7 +126,7 @@
             "color":"#DA1717",
             "desc":"SMG used for long range with an AR as secondary.",
             "title":"Milano",
-            "image":"./images/milano.png",
+            "image":"./images/cw/milano.png",
             "short":"milano.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -156,7 +156,7 @@
             "color":"#DA1717",
             "desc":"SMG for close quarter combat",
             "title":"Lapa",
-            "image":"./images/lapa.png",
+            "image":"./images/cw/lapa.png",
             "short":"lapa.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -184,9 +184,9 @@
             "tag":"cw",
             "name":"bullfrog",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat with good medium range damage",
+            "desc":"SMG for close quarter combat with best in class medium range damage",
             "title":"Bullfrog",
-            "image":"./images/bullfrog.png",
+            "image":"./images/cw/bullfrog.png",
             "short":"bullfrog.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -216,7 +216,7 @@
             "color":"#DA1717",
             "desc":"Shotgun with lethal close range damage and long range",
             "title":"Streetsweeper",
-            "image":"./images/streetsweeper.png",
+            "image":"./images/cw/streetsweeper.png",
             "short":"streetsweeper.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -246,7 +246,7 @@
             "color":"#DA1717",
             "desc":"Shotgun with lethal close range damage and long range",
             "title":"Gallo",
-            "image":"./images/gallo.png",
+            "image":"./images/cw/gallo.png",
             "short":"gallo.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -276,7 +276,7 @@
             "color":"#DA1717",
             "desc":"Long range AR with slight vertical recoild",
             "title":"Ak-47",
-            "image":"./images/ak47LR.png",
+            "image":"./images/cw/ak47LR.png",
             "short":"ak47LR.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -306,7 +306,7 @@
             "color":"#DA1717",
             "desc":"Close range AR with good movespeed and range, used with sniper secondary",
             "title":"Ak-47",
-            "image":"./images/ak47CQB.png",
+            "image":"./images/cw/ak47CQB.png",
             "short":"ak47CQB.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -334,9 +334,9 @@
             "tag":"cw",
             "name":"c58",
             "color":"#DA1717",
-            "desc":"Long range AR with good range and damage with a decent amount of vertical recoil",
+            "desc":"Long range AR with good range and damage with high vertical recoil",
             "title":"C-58",
-            "image":"./images/c58.png",
+            "image":"./images/cw/c58.png",
             "short":"c58.png",
             "attachments": [{
                 "name":"Muzzle",
@@ -357,6 +357,306 @@
             },{
                 "name":"Magazine",
                 "value":"STANAG 55 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"em2",
+            "color":"#DA1717",
+            "desc":"Long range AR with good range and damage with slight vertical recoil",
+            "title":"EM-2",
+            "image":"./images/cw/em2.png",
+            "short":"em2.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"25.8 Task Force",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Salvo 45 Rnd Fast Mag",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"fara83",
+            "color":"#DA1717",
+            "desc":"Long range AR with good range and damage with tiny vertical recoil",
+            "title":"Fara-83",
+            "image":"./images/cw/fara83.png",
+            "short":"fara83.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"GRU Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"18.7 Spetsnaz RPK Barrel",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Spetsnaz Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"VDV 60 Rnd Fast Mag",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"c58",
+            "color":"#DA1717",
+            "desc":"Long range AR with good range and damage with high vertical recoil",
+            "title":"C-58",
+            "image":"./images/cw/c58.png",
+            "short":"c58.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"18.7 Ranger",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 55 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"qbz",
+            "color":"#DA1717",
+            "desc":"Long range AR with good range and damage with slight vertical recoil",
+            "title":"QBZ",
+            "image":"./images/cw/qbz.png",
+            "short":"qbz.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"15.5 Task Force",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"45 Rnd Drum",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"xm4",
+            "color":"#DA1717",
+            "desc":"Long range AR with very high range and damage with a high vertical recoil",
+            "title":"XM-4",
+            "image":"./images/cw/xm4.png",
+            "short":"xm4.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"13.5 Task Force",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Salvo 60 Rnd Fast Mag",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"stoner63",
+            "color":"#DA1717",
+            "desc":"Long range LMG with good range and damage with slight vertical recoil",
+            "title":"Stoner-63",
+            "image":"./images/cw/stoner63.png",
+            "short":"stoner63.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"21.8 Task Force",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Raider Pad",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"mg82",
+            "color":"#DA1717",
+            "desc":"Long range LMG with high fire rate, good range and damage with slight vertical recoil",
+            "title":"MG-82",
+            "image":"./images/cw/mg82.png",
+            "short":"mg82.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"16.4 Task Force",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"125 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"swiss",
+            "color":"#DA1717",
+            "desc":"Sniper Rifle with good ADS speed with 1 shot shield break",
+            "title":"Swiss",
+            "image":"./images/cw/swiss.png",
+            "short":"swiss.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Sound Moderator",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Combat Recon",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Steady Aim Laser",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Wire Stock",
+                "inline":true
+            },{
+                "name":"Read Grip",
+                "value":"Dropshot Wrap",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"carv",
+            "color":"#DA1717",
+            "desc":"3 Round Burst Ranged Tactical Rifle with two burst potential",
+            "title":"Carv",
+            "image":"./images/cw/carv.png",
+            "short":"carv.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"23.6 Match Grade",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"45 Rnd Drum",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"m16",
+            "color":"#DA1717",
+            "desc":"3 Round Burst Ranged Tactical Rifle with slight recoil and good range",
+            "title":"M16",
+            "image":"./images/cw/m16.png",
+            "short":"m16.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"20.5 Task force",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Axial Arms 3x",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Salvo 60 Rnd Fast Mag",
                 "inline":true
             }]
         }

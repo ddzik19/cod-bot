@@ -105,8 +105,15 @@ client.on("messageCreate", msg => {
                                     name: guns[i].attachments[4].name,
                                     value: guns[i].attachments[4].value,
                                     inline: guns[i].attachments[4].inline
+                                }, {
+                                    name: "\u200B",
+                                    value: "\u200B",
+                                    inline: true
                                 })
                         }
+                    } // checking if the gun is a vanguard gun 
+                    else if (guns[i].tag === "vg") {
+                        // will have many more attachment fields
                     }
                 }
             }
