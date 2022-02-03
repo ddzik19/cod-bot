@@ -92,7 +92,7 @@
         },
                 {
             "tag":"cw",
-            "name":"mp5",
+            "name":"mp5cw",
             "color":"#DA1717",
             "desc":"SMG for close quarter combat",
             "title":"Mp5",
@@ -657,6 +657,486 @@
             },{
                 "name":"Magazine",
                 "value":"Salvo 60 Rnd Fast Mag",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"kar98kmw",
+            "color":"#00D4FF",
+            "desc":"Marksman Rifle with the fastest ADS speed in the game, good range and damage with 1 shot headshot knock.",
+            "title":"Kar 98k",
+            "image":"./images/mw/kar98k.jpg",
+            "short":"kar98k.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Singuard Custom 27.6",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Sniper Scope",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"FTAC Sport Comb",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"kar98k",
+            "color":"#00D4FF",
+            "desc":"Marksman Rifle with the fastest ADS speed in the game, good range and damage with 1 shot headshot knock.",
+            "title":"Kar 98k",
+            "image":"./images/mw/kar98k.jpg",
+            "short":"kar98k.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Singuard Custom 27.6",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Sniper Scope",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"FTAC Sport Comb",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"kilo141",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "title":"Kilo 141",
+            "image":"./images/mw/kilo141.png",
+            "short":"kilo141.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Singuard Arms 19.8 Prowler Barrel",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"grau",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "title":"Grau 5.56",
+            "image":"./images/mw/grau.jpg",
+            "short":"grau.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Tempus 26.4 Archangel",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"m13",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "title":"M13",
+            "image":"./images/mw/m13.png",
+            "short":"m13.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Tempus Marksman",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"m4a1",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "title":"M4A1",
+            "image":"./images/mw/m4a1.jpg",
+            "short":"m4a1.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Stock M16 Grenadier",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Ranger Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"amax",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "title":"CR-56 Amax",
+            "image":"./images/mw/amax.jpg",
+            "short":"amax.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"XRK Zodiac S440",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"45 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"ram7",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "title":"RAM-7",
+            "image":"./images/mw/ram7.png",
+            "short":"ram7.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"FSS Ranger",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"50 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"asval",
+            "color":"#00D4FF",
+            "desc":"Close Range AR with high fire rate and damage.",
+            "title":"AS VAL",
+            "image":"./images/mw/asval.png",
+            "short":"asval.png",
+            "attachments": [{
+                "name":"Barrel",
+                "value":"VLK 200mm Osa",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"30 Round Mags",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Stippled Grip Tape",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"mp5mw",
+            "color":"#00D4FF",
+            "desc":"Close Range SMG with great hipfire accuracy, range and damage.",
+            "title":"MP5",
+            "image":"./images/mw/mp5.jpg",
+            "short":"mp5.jpg",
+            "attachments": [{
+                "name":"Barrel",
+                "value":"Monolithic Integral Suppressor",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"5mW Laser",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"FTAC Collapsible",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Merc Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"45 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"mp7",
+            "color":"#00D4FF",
+            "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
+            "title":"MP7",
+            "image":"./images/mw/mp7.jpg",
+            "short":"mp7.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolithic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"FSS Recon",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Ranger Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"finnlmg",
+            "color":"#00D4FF",
+            "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
+            "title":"FiNN LMG",
+            "image":"./images/mw/finnlmg.jpg",
+            "short":"finnlmg.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolithic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"XRX LongShot Adverse",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Ranger Foregrip",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"sykov",
+            "color":"#00D4FF",
+            "desc":"Full Auto close range Pistol with high fire rate and close range damage.",
+            "title":"FiNN LMG",
+            "image":"./images/mw/sykov.png",
+            "short":"sykov.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolithic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Sorokin 140mm Auto",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"80 Round Drum",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"VLK Prizrak",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"jak12",
+            "color":"#00D4FF",
+            "desc":"Full Auto shotgun with high fire rate with good range.",
+            "title":"Jak-12",
+            "image":"./images/mw/jak12.png",
+            "short":"jak12.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"FORGE TAC Marauder",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"SLR J-3600 Torrent",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"5mW Laser",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"20 Round Drum Mags",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Fragile - Disabling",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"vlkrogue",
+            "color":"#00D4FF",
+            "desc":"Two round burst shotgun with one-shot potential.",
+            "title":"VLK Rogue",
+            "image":"./images/mw/vlkrogue.png",
+            "short":"vlkrogue.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"FORGE TAC Marauder",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"16 Warlord",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"5mW Laser",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"No Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8-R Dragon's Breath",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"kar98kv",
+            "color":"#FFFB00",
+            "desc":"Sniper rifle with 1 shot blue shield break, with high ADS speed.",
+            "title":"Kar 98k",
+            "image":"./images/mw/kar98kvg.png",
+            "short":"kar98kvg.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"FORGE TAC Marauder",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"16 Warlord",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"5mW Laser",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"No Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8-R Dragon's Breath",
                 "inline":true
             }]
         }

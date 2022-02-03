@@ -13,14 +13,14 @@ module.exports = {
     execute(msg) {
         const newEmbed = new MessageEmbed()
             .setColor('DA1717')
-            .setDescription("To find the build of choice type in gunName.build")
+            .setDescription("To find the build of choice type in !build.gunName (!build.mp5cw)")
             .setTitle("Viable CW guns")
             .addFields({
                 name: "ots9",
                 value: 'SMG',
                 inline: true
             }, {
-                name: "mp5",
+                name: "mp5cw",
                 value: "SMG\nBlueprint iron sight",
                 inline: true
             }, {

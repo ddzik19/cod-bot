@@ -1,0 +1,81 @@
+/*
+    Author: Damian Dzik
+    Date: 01/02/2022
+
+    Desc: Embed with all viable mw guns
+*/
+const {
+    MessageEmbed
+} = require('discord.js')
+
+module.exports = {
+    name: "mw",
+    execute(msg) {
+        const newEmbed = new MessageEmbed()
+            .setColor('00D4FF')
+            .setDescription("To find the build of choice type in !build.gunName (!build.kar98kmw)")
+            .setTitle("Viable MW guns")
+            .addFields({
+                name: "kar98kmw",
+                value: "MR",
+                inline: true
+            }, {
+                name: "kilo141",
+                value: "AR",
+                inline: true
+            }, {
+                name: "Grau",
+                value: "AR",
+                inline: true
+            }, {
+                name: "m13",
+                value: "AR",
+                inline: true
+            }, {
+                name: "asval",
+                value: "AR",
+                inline: true
+            }, {
+                name: "amax",
+                value: "AR",
+                inline: true
+            }, {
+                name: "m4a1",
+                value: "AR",
+                inline: true
+            }, {
+                name: "ram7",
+                value: "AR",
+                inline: true
+            }, {
+                name: "mp5mw",
+                value: "SMG",
+                inline: true
+            }, {
+                name: "mp7",
+                value: "SMG",
+                inline: true
+            }, {
+                name: "finnlmg",
+                value: "LMG",
+                inline: true
+            }, {
+                name: "sykov",
+                value: "Pistol",
+                inline: true
+            }, {
+                name: "vlkrogue",
+                value: "Shotgun",
+                inline: true
+            }, {
+                name: "jak12",
+                value: "Shotgun",
+                inline: true
+            }, );
+
+        // creating the embed and sending it to the chat
+        msg.channel.send({
+            embeds: [newEmbed]
+        });
+    }
+}
