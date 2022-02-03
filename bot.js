@@ -29,9 +29,6 @@ let guns = gunBuilds.guns;
 
 // creating a file sync reader to read files
 const fs = require('fs');
-const {
-    title
-} = require('process');
 
 // creating a new collection of commands
 client.commands = new Discord.Collection();
