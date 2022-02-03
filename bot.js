@@ -66,7 +66,6 @@ client.on("messageCreate", msg => {
             // if the command is wz then get arg[1] and check if command exists
             client.commands.get(args[1].toLowerCase()).execute(msg);
         }
-
         // display the gun build that was asked for
         if (command === "!build") {
             // creating embed and attachment variables
@@ -114,6 +113,57 @@ client.on("messageCreate", msg => {
                     } // checking if the gun is a vanguard gun 
                     else if (guns[i].tag === "vg") {
                         // will have many more attachment fields
+                        if (args[1] == guns[i].name) {
+                            attachment = new MessageAttachment(guns[i].image)
+                            embed = new MessageEmbed()
+                                .setColor(guns[i].color)
+                                .setTitle(guns[i].title)
+                                .setDescription(guns[i].desc)
+                                .setImage(url = `attachment://${guns[i].short}`)
+                                // filling out the fields with the json data 
+                                .addFields({
+                                    // getting the name, value and inline from json file
+                                    name: guns[i].attachments[0].name,
+                                    value: guns[i].attachments[0].value,
+                                    inline: guns[i].attachments[0].inline
+                                }, {
+                                    name: guns[i].attachments[1].name,
+                                    value: guns[i].attachments[1].value,
+                                    inline: guns[i].attachments[1].inline
+                                }, {
+                                    name: guns[i].attachments[2].name,
+                                    value: guns[i].attachments[2].value,
+                                    inline: guns[i].attachments[2].inline
+                                }, {
+                                    name: guns[i].attachments[3].name,
+                                    value: guns[i].attachments[3].value,
+                                    inline: guns[i].attachments[3].inline
+                                }, {
+                                    name: guns[i].attachments[4].name,
+                                    value: guns[i].attachments[4].value,
+                                    inline: guns[i].attachments[4].inline
+                                }, {
+                                    name: guns[i].attachments[5].name,
+                                    value: guns[i].attachments[5].value,
+                                    inline: guns[i].attachments[5].inline
+                                }, {
+                                    name: guns[i].attachments[6].name,
+                                    value: guns[i].attachments[6].value,
+                                    inline: guns[i].attachments[6].inline
+                                }, {
+                                    name: guns[i].attachments[7].name,
+                                    value: guns[i].attachments[7].value,
+                                    inline: guns[i].attachments[7].inline
+                                }, {
+                                    name: guns[i].attachments[8].name,
+                                    value: guns[i].attachments[8].value,
+                                    inline: guns[i].attachments[8].inline
+                                }, {
+                                    name: guns[i].attachments[9].name,
+                                    value: guns[i].attachments[9].value,
+                                    inline: guns[i].attachments[9].inline
+                                })
+                        }
                     }
                 }
             }
@@ -123,7 +173,7 @@ client.on("messageCreate", msg => {
             })
         }
     } catch (error) {
-        console.log(error)
+        msg.channel.send("Type !cod.help in chat to see all the commands.")
     }
 });
 

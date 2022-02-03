@@ -1112,31 +1112,501 @@
         },
         {
             "tag":"vg",
-            "name":"kar98kv",
+            "name":"kar98kvg",
             "color":"#FFFB00",
-            "desc":"Sniper rifle with 1 shot blue shield break, with high ADS speed.",
+            "desc":"Sniper Rifle with 1 shot blue shield break, with high ADS speed.",
             "title":"Kar 98k",
-            "image":"./images/mw/kar98kvg.png",
+            "image":"./images/vg/kar98kvg.png",
             "short":"kar98kvg.png",
             "attachments": [{
                 "name":"Muzzle",
-                "value":"FORGE TAC Marauder",
+                "value":"SD Silencer",
                 "inline":true
             },{
                 "name":"Barrel",
-                "value":"16 Warlord",
+                "value":"VDD RE02K",
                 "inline":true
             },{
-                "name":"Laser",
-                "value":"5mW Laser",
+                "name":"Optic",
+                "value":"\u200B",
                 "inline":true
             },{
                 "name":"Stock",
-                "value":"No Stock",
+                "value":"Short Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Heavy Foregrip",
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"8-R Dragon's Breath",
+                "value":"\u200B",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"FMJ Rounds / Lenghtened",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Leather Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Shrouded",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"On-Hand",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"bren",
+            "color":"#FFFB00",
+            "desc":"Long Range LMG with very low recoil, good fire rate and no ranged damage fall-off.",
+            "title":"Bren",
+            "image":"./images/vg/bren.png",
+            "short":"bren.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Mercury Silencer",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Queens 775mm Specter",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"G16 2.5x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Queen's Model 11 BH",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Carver Foregrip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"6.5 Sakura 40 Round Mag",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Lenghtened",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Taped Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Tight Grip",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"sten",
+            "color":"#FFFB00",
+            "desc":"Close Range SMG with zero recoil, very good fire rate and damage.",
+            "title":"Sten",
+            "image":"./images/vg/sten.png",
+            "short":"sten.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"SA 65mm Rapid",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Hockenson IS22S",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Gawain Para",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Smile Pistol Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"9mm 50 Round Drum",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Polymer Gril",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Gun-Ho",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"welgun",
+            "color":"#FFFB00",
+            "desc":"Close Range SMG with very high fire rate, good for close range encounters but falls-off in medium range.",
+            "title":"Welgun",
+            "image":"./images/vg/welgun.jpg",
+            "short":"welgun.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"120mm Gawain Short",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Slate Reflector",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Gawain Skeletal",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"M1941 Hand Stop",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"9mm 64 Round Mags",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Taped Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Frenzy",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"mp40",
+            "color":"#FFFB00",
+            "desc":"Close Range SMG with good fire rate, good for close and medium range encounters.",
+            "title":"Mp40",
+            "image":"./images/vg/mp40.png",
+            "short":"mp40.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Krausnick 317mm 04B",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Krausnick IS01M",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Krausnick 33M Folding",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Mark VI Skeletal",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8mm Kurz 40 Round Mags",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Fabric Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Unmarked",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"ppsh",
+            "color":"#FFFB00",
+            "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
+            "title":"Ppsh",
+            "image":"./images/vg/ppsh.png",
+            "short":"ppsh.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Kovalevskaya 230mm B03P",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Kovalevskaya IS02P",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Removed Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Smile Pistol Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"7.62mm Gorenko 71 Round Mags",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Fabric Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Fleet",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"doublebarrel",
+            "color":"#FFFB00",
+            "desc":"Shotgun with 2 shot potential in close range with high movement speed and hip-fire accuracy.",
+            "title":"Double Barrel",
+            "image":"./images/vg/db.png",
+            "short":"db.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Full Choke",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Sawed-Off",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"1229/Slate 3.25x Custom",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Removed Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"\u200B",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"\u200B",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Packed Powder",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Pine Tar Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Akimbo",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"stg",
+            "color":"#FFFB00",
+            "desc":"Long Range AR with high damage and no recoil.",
+            "title":"STG",
+            "image":"./images/vg/stg.png",
+            "short":"stg.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Mercury Silence",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"VDD 760mm 05B",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"SVT-40 PU Scope 3-6x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"VDD 34S Weighted",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"M1941 Hand Stop",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8mm Kurz 60 Round Drums",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Lengthened",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Polymer Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Vital",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"coopercarabine",
+            "color":"#FFFB00",
+            "desc":"Long Range AR with high damage, high fire rate and no recoil.",
+            "title":"Cooper Carabine",
+            "image":"./images/vg/coopercarabine.png",
+            "short":"coopercarabine.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Mercury Silence",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"22 Cooper Custom",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"SVT-40 PU Scope 3-6x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Cooper Custom Padded",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"M1941 Hand Stop",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"9mm 60 Round Drums",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Lengthened",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Polymer Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Vital",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"automaton",
+            "color":"#FFFB00",
+            "desc":"Long Range AR with high damage and slight recoil.",
+            "title":"Automaton",
+            "image":"./images/vg/automaton.png",
+            "short":"automaton.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Mercury Silence",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Anastasia Sniper",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"SVT-40 PU Scope 3-6x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Anastasia Padded",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Carver Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"6.5mm Sakura 75 Round Drums",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Lengthened",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Polymer Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Tight Grip",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
                 "inline":true
             }]
         }

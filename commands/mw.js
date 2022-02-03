@@ -24,7 +24,7 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
-                name: "Grau",
+                name: "grau",
                 value: "AR",
                 inline: true
             }, {
@@ -71,7 +71,11 @@ module.exports = {
                 name: "jak12",
                 value: "Shotgun",
                 inline: true
-            }, );
+            }, {
+                name: "\u200B",
+                value: "\u200B",
+                inline: true
+            });
 
         // creating the embed and sending it to the chat
         msg.channel.send({
