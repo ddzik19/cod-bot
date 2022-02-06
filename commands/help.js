@@ -19,6 +19,9 @@ module.exports = {
                 name: "!cod.help",
                 value: "Displays all commands"
             }, {
+                name: "!wz.meta",
+                value: "Displays all Meta guns in warzone"
+            }, {
                 name: "!cod.mw",
                 value: "Displays all viable Modern Warfare guns in warzone"
             }, {

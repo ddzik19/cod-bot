@@ -1362,10 +1362,10 @@
         },
         {
             "tag":"vg",
-            "name":"ppsh",
+            "name":"ppsh41",
             "color":"#FFFB00",
             "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
-            "title":"Ppsh",
+            "title":"Ppsh-41",
             "image":"./images/vg/ppsh.png",
             "short":"ppsh.png",
             "attachments": [{
@@ -1462,10 +1462,10 @@
         },
         {
             "tag":"vg",
-            "name":"stg",
+            "name":"stg44",
             "color":"#FFFB00",
             "desc":"Long Range AR with high damage and no recoil.",
-            "title":"STG",
+            "title":"STG44",
             "image":"./images/vg/stg.png",
             "short":"stg.png",
             "attachments": [{
