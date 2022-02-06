@@ -58,9 +58,14 @@ client.on("messageCreate", msg => {
     if (msg.author.bot || !msg.content.startsWith(prefix)) return
 
     try {
+        // responsible for warzone commands
+        if (command === "!wz") {
+            // if the command is wz then get arg[1] and check if command exists
+            client.commands.get(args[1].toLowerCase()).execute(msg);
+        }
         // listing all the viable guns
         if (command === "!cod") {
-            // if the command is wz then get arg[1] and check if command exists
+            // if the command is cod then get arg[1] and check if command exists
             client.commands.get(args[1].toLowerCase()).execute(msg);
         }
         // display the gun build that was asked for
