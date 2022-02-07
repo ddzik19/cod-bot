@@ -936,8 +936,8 @@
             "color":"#00D4FF",
             "desc":"Close Range SMG with great hipfire accuracy, range and damage.",
             "title":"MP5",
-            "image":"./images/mw/mp5.jpg",
-            "short":"mp5.jpg",
+            "image":"./images/mw/mp5mw.png",
+            "short":"mp5mw.png",
             "attachments": [{
                 "name":"Barrel",
                 "value":"Monolithic Integral Suppressor",
