@@ -190,7 +190,7 @@
             "short":"bullfrog.png",
             "attachments": [{
                 "name":"Muzzle",
-                "value":"Gru Supressor",
+                "value":"GRU Supressor",
                 "inline":true
             },{
                 "name":"Barrel",
@@ -207,6 +207,36 @@
             },{
                 "name":"Magazine",
                 "value":"65 Rnd",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"ppshcw",
+            "color":"#DA1717",
+            "desc":"SMG for close quarter with high fire rate and good medium range damage",
+            "title":"PPSH-41",
+            "image":"./images/cw/ppshcw.png",
+            "short":"ppshcw.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"GRU Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"15.7 Task Force",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Raider Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"55 Round Drum",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Serpent Wrap",
                 "inline":true
             }]
         },
@@ -310,15 +340,11 @@
             "short":"ak47CQB.png",
             "attachments": [{
                 "name":"Muzzle",
-                "value":"GRU Suppressor",
+                "value":"Suppressor",
                 "inline":true
             },{
-                "name":"Barrel",
-                "value":"18.2 VDV Reinforced",
-                "inline":true
-            },{
-                "name":"Laser",
-                "value":"Tiger Team Spotlight",
+                "name":"Optic",
+                "value":"Microflex LED",
                 "inline":true
             },{
                 "name":"Stock",
@@ -326,7 +352,11 @@
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"Taped Mags",
+                "value":"45 Rnd",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Serpent Wrap",
                 "inline":true
             }]
         },
@@ -599,6 +629,35 @@
                 "value":"Dropshot Wrap",
                 "inline":true
             }]
+        },{
+            "tag":"cw",
+            "name":"pelington",
+            "color":"#DA1717",
+            "desc":"Sniper Rifle with good ADS speed.",
+            "title":"Pelington",
+            "image":"./images/cw/pelington.png",
+            "short":"pelington.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Wrapped Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"27.2 Combat Recon",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"SWAT 5mw Laser Sight",
+                "inline":true
+            },{
+                "name":"Magazine Grip",
+                "value":"7 Rnd",
+                "inline":true
+            },{
+                "name":"Read Grip",
+                "value":"Dropshot Wrap",
+                "inline":true
+            }]
         },
         {
             "tag":"cw",
@@ -666,8 +725,8 @@
             "color":"#00D4FF",
             "desc":"Marksman Rifle with the fastest ADS speed in the game, good range and damage with 1 shot headshot knock.",
             "title":"Kar 98k",
-            "image":"./images/mw/kar98k.jpg",
-            "short":"kar98k.jpg",
+            "image":"./images/mw/kar98k.png",
+            "short":"kar98k.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Monolothic Suppressor",
@@ -685,38 +744,8 @@
                 "value":"Sniper Scope",
                 "inline":true
             },{
-                "name":"Stock",
-                "value":"FTAC Sport Comb",
-                "inline":true
-            }]
-        },
-        {
-            "tag":"mw",
-            "name":"kar98k",
-            "color":"#00D4FF",
-            "desc":"Marksman Rifle with the fastest ADS speed in the game, good range and damage with 1 shot headshot knock.",
-            "title":"Kar 98k",
-            "image":"./images/mw/kar98k.jpg",
-            "short":"kar98k.jpg",
-            "attachments": [{
-                "name":"Muzzle",
-                "value":"Monolothic Suppressor",
-                "inline":true
-            },{
-                "name":"Barrel",
-                "value":"Singuard Custom 27.6",
-                "inline":true
-            },{
-                "name":"Laser",
-                "value":"Tac Laser",
-                "inline":true
-            },{
-                "name":"Optic",
-                "value":"Sniper Scope",
-                "inline":true
-            },{
-                "name":"Stock",
-                "value":"FTAC Sport Comb",
+                "name":"Perk",
+                "value":"Sleight of Hand",
                 "inline":true
             }]
         },
@@ -966,15 +995,11 @@
             "color":"#00D4FF",
             "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
             "title":"MP7",
-            "image":"./images/mw/mp7.jpg",
-            "short":"mp7.jpg",
+            "image":"./images/mw/mp7.png",
+            "short":"mp7.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Monolithic Suppressor",
-                "inline":true
-            },{
-                "name":"Barrel",
-                "value":"FSS Recon",
                 "inline":true
             },{
                 "name":"Laser",
@@ -982,11 +1007,45 @@
                 "inline":true
             },{
                 "name":"Underbarrel",
-                "value":"Ranger Foregrip",
+                "value":"Merc Foregrip",
                 "inline":true
             },{
-                "name":"Ammunition",
+                "name":"Magazine",
                 "value":"60 Round Mags",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Strippled Grip Tape",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"mw",
+            "name":"uzi",
+            "color":"#00D4FF",
+            "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
+            "title":"Uzi",
+            "image":"./images/mw/uzi.png",
+            "short":"uzi.png",
+            "attachments": [{
+                "name":"Barrel",
+                "value":"FSS Carabine Pro",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"G.I. Mini Reflex",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"No Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":".41 AE 32-Round MAgs",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Sleight of Hand",
                 "inline":true
             }]
         },
@@ -1286,7 +1345,7 @@
                 "inline":true
             },{
                 "name":"Underbarrel",
-                "value":"M1941 Hand Stop",
+                "value":"Carver Foregrip",
                 "inline":true
             },{
                 "name":"Magazine",
@@ -1298,15 +1357,15 @@
                 "inline":true
             },{
                 "name":"Rear Grip",
-                "value":"Taped Grip",
+                "value":"Polymer Grip",
                 "inline":true
             },{
                 "name":"Perk",
-                "value":"Frenzy",
+                "value":"Acrobatic",
                 "inline":true
             },{
                 "name":"Perk2",
-                "value":"Fully Loaded",
+                "value":"Quick",
                 "inline":true
             }]
         },
@@ -1362,7 +1421,7 @@
         },
         {
             "tag":"vg",
-            "name":"ppsh41",
+            "name":"ppshvg",
             "color":"#FFFB00",
             "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
             "title":"Ppsh-41",
@@ -1378,7 +1437,7 @@
                 "inline":true
             },{
                 "name":"Optic",
-                "value":"Kovalevskaya IS02P",
+                "value":"SVT-40 PU Scope 3-6x",
                 "inline":true
             },{
                 "name":"Stock",
@@ -1386,11 +1445,11 @@
                 "inline":true
             },{
                 "name":"Underbarrel",
-                "value":"Smile Pistol Grip",
+                "value":"Carver Foregrip",
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"7.62mm Gorenko 71 Round Mags",
+                "value":"Nambu 71 Round Mags",
                 "inline":true
             },{
                 "name":"Ammunition",
@@ -1398,11 +1457,11 @@
                 "inline":true
             },{
                 "name":"Rear Grip",
-                "value":"Fabric Grip",
+                "value":"Pine Tar Grip",
                 "inline":true
             },{
                 "name":"Perk",
-                "value":"Fleet",
+                "value":"Tight Grip",
                 "inline":true
             },{
                 "name":"Perk2",
@@ -1603,6 +1662,56 @@
             },{
                 "name":"Perk",
                 "value":"Tight Grip",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"volk",
+            "color":"#FFFB00",
+            "desc":"Close range AR with high fire rate and damage.",
+            "title":"Volk",
+            "image":"./images/vg/volk.png",
+            "short":"volk.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Krausnick 428mm 05V",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Slate Relfector",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"SA Converted",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Carver Foregrip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"7.62 Gorenko 40 Round Mags",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Grooved Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Steady",
                 "inline":true
             },{
                 "name":"Perk2",

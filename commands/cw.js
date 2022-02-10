@@ -32,6 +32,10 @@ module.exports = {
                 value: 'SMG',
                 inline: true
             }, {
+                name: "ppshcw",
+                value: 'SMG',
+                inline: true
+            }, {
                 name: "bullfrog",
                 value: 'SMG',
                 inline: true

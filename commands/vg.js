@@ -36,7 +36,7 @@ module.exports = {
                 value: "SMG",
                 inline: true
             }, {
-                name: "ppsh41",
+                name: "ppshvg",
                 value: "SMG",
                 inline: true
             }, {
@@ -45,6 +45,10 @@ module.exports = {
                 inline: true
             }, {
                 name: "stg44",
+                value: "AR",
+                inline: true
+            }, {
+                name: "volk",
                 value: "AR",
                 inline: true
             }, {

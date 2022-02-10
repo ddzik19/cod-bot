@@ -32,7 +32,7 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
-                name: "ppsh41",
+                name: "ppsh41vg",
                 value: "SMG",
                 inline: true
             }, {

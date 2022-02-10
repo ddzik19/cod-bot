@@ -56,6 +56,10 @@ module.exports = {
                 value: "SMG",
                 inline: true
             }, {
+                name: "uzi",
+                value: "SMG",
+                inline: true
+            }, {
                 name: "finnlmg",
                 value: "LMG",
                 inline: true
