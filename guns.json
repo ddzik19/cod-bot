@@ -386,7 +386,7 @@
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"STANAG 55 Rnd",
+                "value":"45 Rnd Drum",
                 "inline":true
             }]
         },
@@ -1412,6 +1412,56 @@
             },{
                 "name":"Perk",
                 "value":"Unmarked",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"m1912",
+            "color":"#FFFB00",
+            "desc":"Close Range SMG with good fire rate, good for close and medium range encounters.",
+            "title":"M1912",
+            "image":"./images/vg/m1912.png",
+            "short":"m1912.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"CGC 12 Cooling",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Slate Relfector",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"CGC S Adjustable",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"M1941 Hand Stop",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":".45 ACP 100 Round Drums",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Polymer Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Frenzy",
                 "inline":true
             },{
                 "name":"Perk2",
