@@ -122,7 +122,7 @@
         },
         {
             "tag":"cw",
-            "name":"milano",
+            "name":"milanolr",
             "color":"#DA1717",
             "desc":"SMG used for long range with an AR as secondary.",
             "title":"Milano",
@@ -143,6 +143,36 @@
             },{
                 "name":"Underbarrel",
                 "value":"Field Agent Grip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 55 Rnd Drum",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"cw",
+            "name":"milanocqb",
+            "color":"#DA1717",
+            "desc":"Close Quarter Combat SMG with high damage in close quarters and range.",
+            "title":"Milano",
+            "image":"./images/cw/milanocqb.png",
+            "short":"milanocqb.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Microflex LED",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Raider Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Bruiser Grip",
                 "inline":true
             },{
                 "name":"Magazine",

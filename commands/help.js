@@ -26,7 +26,7 @@ module.exports = {
                 value: "Displays all viable Modern Warfare guns in warzone"
             }, {
                 name: "!cod.cw",
-                value: "Displays all viable old War guns in warzone"
+                value: "Displays all viable Cold War guns in warzone"
             }, {
                 name: "!cod.vg",
                 value: "Displays all viable Vanguard guns in warzone"
