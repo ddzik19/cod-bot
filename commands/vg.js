@@ -59,6 +59,10 @@ module.exports = {
                 name: "automaton",
                 value: "AR",
                 inline: true
+            }, {
+                name: "kgm40",
+                value: "AR",
+                inline: true
             });
 
         // creating the embed and sending it to the chat

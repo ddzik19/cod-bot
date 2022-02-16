@@ -20,7 +20,7 @@ module.exports = {
                 value: "MR",
                 inline: true
             }, {
-                name: "mp40",
+                name: "welgun",
                 value: "SMG",
                 inline: true
             }, {
@@ -28,7 +28,7 @@ module.exports = {
                 value: "LMG",
                 inline: true
             }, {
-                name: "stg44",
+                name: "kgm40",
                 value: "AR",
                 inline: true
             }, {

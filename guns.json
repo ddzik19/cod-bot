@@ -1301,6 +1301,56 @@
         },
         {
             "tag":"vg",
+            "name":"kgm40",
+            "color":"#FFFB00",
+            "desc":"Long Range AR with very low recoil, good fire rate.",
+            "title":"KG-M40",
+            "image":"./images/vg/kgm40.png",
+            "short":"kgm40.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Mercury Silencer",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Reisdorf 720mm Shrouded",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"G16 2.5x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Krausnick 12V",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"M1930 Strife Angled",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8mm Klauser 30 Round Mag",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Lenghtened",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Polymer Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Brace",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
             "name":"sten",
             "color":"#FFFB00",
             "desc":"Close Range SMG with zero recoil, very good fire rate and damage.",
