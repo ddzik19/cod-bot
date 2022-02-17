@@ -1048,6 +1048,35 @@
                 "value":"Strippled Grip Tape",
                 "inline":true
             }]
+        },{
+            "tag":"mw",
+            "name":"p90",
+            "color":"#00D4FF",
+            "desc":"Close Range SMG with good hipfire accuracy, high fire rate nad good close quarters/ medium range damage.",
+            "title":"P90",
+            "image":"./images/mw/p90.png",
+            "short":"p90.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolithic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"FSS 10.6 Pro",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Strippled Grip Tape",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Strippled Grip Tape",
+                "inline":true
+            }]
         },
         {
             "tag":"mw",
@@ -1303,13 +1332,13 @@
             "tag":"vg",
             "name":"kgm40",
             "color":"#FFFB00",
-            "desc":"Long Range AR with very low recoil, good fire rate.",
+            "desc":"Long Range AR with very low recoil, and consistend damage.",
             "title":"KG-M40",
             "image":"./images/vg/kgm40.png",
             "short":"kgm40.png",
             "attachments": [{
                 "name":"Muzzle",
-                "value":"Mercury Silencer",
+                "value":"MX Silencer",
                 "inline":true
             },{
                 "name":"Barrel",
@@ -1325,11 +1354,11 @@
                 "inline":true
             },{
                 "name":"Underbarrel",
-                "value":"M1930 Strife Angled",
+                "value":"M1941 Hand Stop",
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"8mm Klauser 30 Round Mag",
+                "value":"8mm Klauser 60 Round Mag",
                 "inline":true
             },{
                 "name":"Ammunition",
@@ -1341,7 +1370,7 @@
                 "inline":true
             },{
                 "name":"Perk",
-                "value":"Brace",
+                "value":"Tight Grip",
                 "inline":true
             },{
                 "name":"Perk2",
