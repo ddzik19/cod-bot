@@ -875,7 +875,7 @@
             "desc":"Long Range AR with very low recoil, good range and damage.",
             "title":"M13",
             "image":"./images/mw/m13cqb.png",
-            "short":"m13cbq.png",
+            "short":"m13cqb.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Monolothic Suppressor",
