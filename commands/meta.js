@@ -32,14 +32,10 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
-                name: "ppsh41vg",
+                name: "ppshvghipfire",
                 value: "SMG",
                 inline: true
-            }, {
-                name: "coopercarabine",
-                value: "AR",
-                inline: true
-            }, );
+            });
 
         // creating the embed and sending it to the chat
         msg.channel.send({

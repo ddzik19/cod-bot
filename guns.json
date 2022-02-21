@@ -841,12 +841,12 @@
         },
         {
             "tag":"mw",
-            "name":"m13",
+            "name":"m13lr",
             "color":"#00D4FF",
             "desc":"Long Range AR with very low recoil, good range and damage.",
             "title":"M13",
-            "image":"./images/mw/m13.png",
-            "short":"m13.png",
+            "image":"./images/mw/m13lr.png",
+            "short":"m13lr.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Monolothic Suppressor",
@@ -858,6 +858,35 @@
             },{
                 "name":"Optic",
                 "value":"VLK 3.0x Optic",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
+        },{
+            "tag":"mw",
+            "name":"m13cqb",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "title":"M13",
+            "image":"./images/mw/m13cqb.png",
+            "short":"m13cbq.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Tempus Marksman",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Corp Combat Holo Sight",
                 "inline":true
             },{
                 "name":"Underbarrel",
@@ -1580,12 +1609,12 @@
         },
         {
             "tag":"vg",
-            "name":"ppshvg",
+            "name":"ppshvghipfire",
             "color":"#FFFB00",
             "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
             "title":"Ppsh-41",
-            "image":"./images/vg/ppsh.png",
-            "short":"ppsh.png",
+            "image":"./images/vg/ppshvghipfire.png",
+            "short":"ppshvghipfire.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Recoil Booster",
@@ -1596,7 +1625,7 @@
                 "inline":true
             },{
                 "name":"Optic",
-                "value":"SVT-40 PU Scope 3-6x",
+                "value":"G16 2.5x",
                 "inline":true
             },{
                 "name":"Stock",
@@ -1608,7 +1637,58 @@
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"Nambu 71 Round Mags",
+                "value":"8mm Nambu 71 Round Mags",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Incendiary",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Pine Tar Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Tight Grip",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
+        },
+        
+        {
+            "tag":"vg",
+            "name":"ppshvghipfire",
+            "color":"#FFFB00",
+            "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
+            "title":"Ppsh-41",
+            "image":"./images/vg/ppshvghipfire.png",
+            "short":"ppshvghipfire.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Kovalevskaya 230mm B03P",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"G16 2.5x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Removed Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Carver Foregrip",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8mm Nambu 71 Round Mags",
                 "inline":true
             },{
                 "name":"Ammunition",
@@ -1630,23 +1710,23 @@
         },
         {
             "tag":"vg",
-            "name":"doublebarrel",
+            "name":"owengun",
             "color":"#FFFB00",
-            "desc":"Shotgun with 2 shot potential in close range with high movement speed and hip-fire accuracy.",
-            "title":"Double Barrel",
-            "image":"./images/vg/db.png",
-            "short":"db.png",
+            "desc":"SMG with very high damage, slower fire rate but very good range damage with very little falloff",
+            "title":"Owen-Gun",
+            "image":"./images/vg/owengun.png",
+            "short":"owengun.png",
             "attachments": [{
                 "name":"Muzzle",
-                "value":"Full Choke",
+                "value":"Recoil Booster",
                 "inline":true
             },{
                 "name":"Barrel",
-                "value":"Sawed-Off",
+                "value":"Gawai 188mm Shrouded",
                 "inline":true
             },{
                 "name":"Optic",
-                "value":"1229/Slate 3.25x Custom",
+                "value":"M38/Slate 2.5x Custom",
                 "inline":true
             },{
                 "name":"Stock",
@@ -1654,23 +1734,23 @@
                 "inline":true
             },{
                 "name":"Underbarrel",
-                "value":"\u200B",
+                "value":"Mark VI Skeletal",
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"\u200B",
+                "value":"2.62 Gorenko 72 Round Drum",
                 "inline":true
             },{
                 "name":"Ammunition",
-                "value":"Packed Powder",
+                "value":"Lenghtened",
                 "inline":true
             },{
                 "name":"Rear Grip",
-                "value":"Pine Tar Grip",
+                "value":"Polymer Grip",
                 "inline":true
             },{
                 "name":"Perk",
-                "value":"Akimbo",
+                "value":"Acrobatic",
                 "inline":true
             },{
                 "name":"Perk2",

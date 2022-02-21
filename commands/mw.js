@@ -28,7 +28,11 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
-                name: "m13",
+                name: "m13lr",
+                value: "AR",
+                inline: true
+            },{
+                name: "m13cqb",
                 value: "AR",
                 inline: true
             }, {

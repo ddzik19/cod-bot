@@ -83,6 +83,9 @@ client.on("messageCreate", msg => {
                                 .setColor(guns[i].color)
                                 .setTitle(guns[i].title)
                                 .setDescription(guns[i].desc)
+                                // short represents the name of the file without a path to the fileexample:
+                                // instead of ./images/mp5.png
+                                // it is mp5.png
                                 .setImage(url = `attachment://${guns[i].short}`)
                                 // filling out the fields with the json data 
                                 .addFields({
@@ -107,7 +110,7 @@ client.on("messageCreate", msg => {
                                     value: guns[i].attachments[4].value,
                                     inline: guns[i].attachments[4].inline
                                 }, {
-                                    name: "\u200B",
+                                    name: "\u200B",// \u200B is a blank space
                                     value: "\u200B",
                                     inline: true
                                 })
@@ -121,6 +124,9 @@ client.on("messageCreate", msg => {
                                 .setColor(guns[i].color)
                                 .setTitle(guns[i].title)
                                 .setDescription(guns[i].desc)
+                                // short represents the name of the file without a path to the fileexample:
+                                // instead of ./images/mp5.png
+                                // it is mp5.png
                                 .setImage(url = `attachment://${guns[i].short}`)
                                 // filling out the fields with the json data 
                                 .addFields({
