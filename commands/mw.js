@@ -24,11 +24,23 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
+                name: "kilo141cqb",
+                value: "AR",
+                inline: true
+            },{
                 name: "grau",
                 value: "AR",
                 inline: true
             }, {
-                name: "m13lr",
+                name: "ram7",
+                value: "AR",
+                inline: true
+            },{
+                name: "ram7cqb",
+                value: "AR",
+                inline: true
+            },{
+                name: "m13",
                 value: "AR",
                 inline: true
             },{
@@ -48,6 +60,10 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
+                name: "m4a1cqb",
+                value: "AR",
+                inline: true
+            },{
                 name: "ram7",
                 value: "AR",
                 inline: true

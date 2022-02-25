@@ -40,23 +40,23 @@
             "short":"mac10.png",
             "attachments": [{
                 "name":"Muzzle",
-                "value":"Agency Supressor",
+                "value":"Sound Supressor",
                 "inline":true
             },{
                 "name":"Barrel",
                 "value":"5.9 Task Force",
                 "inline":true
             },{
-                "name":"Underbarrel",
-                "value":"Bruiser Grip",
-                "inline":true
-            },{
                 "name":"Stock",
                 "value":"Raider Stock",
                 "inline":true
             },{
+                "name":"Underbarrel",
+                "value":"Bruiser Grip",
+                "inline":true
+            },{
                 "name":"Magazine",
-                "value":"STANAG 50 Rnd Drum",
+                "value":"STANAG 53 Rnd Drum",
                 "inline":true
             }]
         },
@@ -122,7 +122,7 @@
         },
         {
             "tag":"cw",
-            "name":"milanolr",
+            "name":"milano",
             "color":"#DA1717",
             "desc":"SMG used for long range with an AR as secondary.",
             "title":"Milano",
@@ -332,12 +332,12 @@
         },
         {
             "tag":"cw",
-            "name":"ak47lr",
+            "name":"ak47",
             "color":"#DA1717",
             "desc":"Long range AR with slight vertical recoild",
             "title":"Ak-47",
-            "image":"./images/cw/ak47LR.png",
-            "short":"ak47LR.png",
+            "image":"./images/cw/ak47.png",
+            "short":"ak47.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"GRU Suppressor",
@@ -537,6 +537,35 @@
             },{
                 "name":"Magazine",
                 "value":"45 Rnd Drum",
+                "inline":true
+            }]
+        },{
+            "tag":"cw",
+            "name":"qbzcqb",
+            "color":"#DA1717",
+            "desc":"Long range AR with good range and damage with slight vertical recoil",
+            "title":"QBZ",
+            "image":"./images/cw/qbzcqb.png",
+            "short":"qbzcqb.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Suppressor",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Microfelx LED",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Raider Stock",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"45 Round Drum",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Serpent Wrap",
                 "inline":true
             }]
         },
@@ -808,6 +837,35 @@
                 "value":"60 Round Mags",
                 "inline":true
             }]
+        },{
+            "tag":"mw",
+            "name":"kilo141cqb",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "title":"Kilo 141",
+            "image":"./images/mw/kilo141cqb.png",
+            "short":"kilo141cqb.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Singuard Arms 19.8 Prowler Barrel",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Corp Combat Holo Sight",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"60 Round Mags",
+                "inline":true
+            }]
         },
         {
             "tag":"mw",
@@ -841,12 +899,12 @@
         },
         {
             "tag":"mw",
-            "name":"m13lr",
+            "name":"m13",
             "color":"#00D4FF",
             "desc":"Long Range AR with very low recoil, good range and damage.",
             "title":"M13",
-            "image":"./images/mw/m13lr.png",
-            "short":"m13lr.png",
+            "image":"./images/mw/m13.png",
+            "short":"m13.png",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Monolothic Suppressor",
@@ -927,6 +985,35 @@
                 "value":"60 Round Mags",
                 "inline":true
             }]
+        },{
+            "tag":"mw",
+            "name":"m4a1cqb",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "title":"M4A1",
+            "image":"./images/mw/m4a1cqb.jpg",
+            "short":"m4a1cqb.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Tac Laser",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Merc Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"9mm Para 32-Round Mags",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Sleight of Hand",
+                "inline":true
+            }]
         },
         {
             "tag":"mw",
@@ -987,7 +1074,36 @@
                 "value":"50 Round Mags",
                 "inline":true
             }]
-        },
+        },{
+            "tag":"mw",
+            "name":"ram7cqb",
+            "color":"#00D4FF",
+            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "title":"RAM-7",
+            "image":"./images/mw/ram7cqb.png",
+            "short":"ram7cqb.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Monolothic Suppressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"FSS Ranger",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"PBX Holo 7 Sight",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"Commando Foregrip",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"50 Round Mags",
+                "inline":true
+            }]
+        }
         {
             "tag":"mw",
             "name":"asval",

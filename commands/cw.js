@@ -32,7 +32,7 @@ module.exports = {
                 value: 'SMG',
                 inline: true
             }, {
-                name: "milanolr",
+                name: "milano",
                 value: 'SMG',
                 inline: true
             }, {
@@ -52,7 +52,7 @@ module.exports = {
                 value: 'SMG',
                 inline: true
             }, {
-                name: "ak47lr",
+                name: "ak47",
                 value: 'AR',
                 inline: true
             }, {
@@ -76,7 +76,11 @@ module.exports = {
                 value: 'AR',
                 inline: true
             }, {
-                name: "qbz83",
+                name: "qbz",
+                value: 'AR',
+                inline: true
+            },{
+                name: "qbzcqb",
                 value: 'AR',
                 inline: true
             }, {
