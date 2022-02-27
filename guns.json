@@ -4,7 +4,7 @@
             "tag":"cw",
             "name":"ots9",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat",
+            "desc":"Full-auto submachine gun. Impressive firepower at close range with good visibility while firing. Reliable recoil control witha  small magazine size.",
             "title":"Ots9",
             "image":"./images/cw/ots9.png",
             "short":"ots9.png",
@@ -34,7 +34,7 @@
             "tag":"cw",
             "name":"mac10",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat with good medium range damage",
+            "desc":"Full-auto submachine gun. Excellent fire rate with higher vertical recoil. Improved handling speeds with reduced damage.",
             "title":"Mac-10",
             "image":"./images/cw/mac10.png",
             "short":"mac10.png",
@@ -59,12 +59,69 @@
                 "value":"STANAG 53 Rnd Drum",
                 "inline":true
             }]
-        },
-        {
+        },{
+            "tag":"cw",
+            "name":"diamatti",
+            "color":"#DA1717",
+            "desc":"Burst fire pistol. Fast cycling rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.",
+            "title":"Diamatti",
+            "image":"./images/cw/diamatti.jpg",
+            "short":"diamatti.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"7.2 Task Force",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Ember Sighting Point",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"Salvo 30 Rnd Fast Mag",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"SASR Jungle Grip",
+                "inline":true
+            }]
+        },{
+            "tag":"cw",
+            "name":"amp63",
+            "color":"#DA1717",
+            "desc":"Burst fire pistol. Fast cycling rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.",
+            "title":"AMP63",
+            "image":"./images/cw/amp.jpg",
+            "short":"amp.jpg",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Agency Supressor",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"6.4 Task Force",
+                "inline":true
+            },{
+                "name":"Laser",
+                "value":"Ember Sighting Point",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"STANAG 30 Rnd",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Serpent Wrap",
+                "inline":true
+            }]
+        },{
             "tag":"cw",
             "name":"ak74u",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat with good medium range damage",
+            "desc":"Full-auto submachine gun. Improved damage with reliable weapon control. Utilizes 5.45mm ammo for superior bullet velocity.",
             "title":"Ak74u",
             "image":"./images/cw/ak74u.png",
             "short":"ak74u.png",
@@ -94,7 +151,7 @@
             "tag":"cw",
             "name":"mp5cw",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat",
+            "desc":"Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.",
             "title":"Mp5",
             "image":"./images/cw/mp5.png",
             "short":"mp5.png",
@@ -124,7 +181,7 @@
             "tag":"cw",
             "name":"milano",
             "color":"#DA1717",
-            "desc":"SMG used for long range with an AR as secondary.",
+            "desc":"Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
             "title":"Milano",
             "image":"./images/cw/milano.png",
             "short":"milano.png",
@@ -154,7 +211,7 @@
             "tag":"cw",
             "name":"milanocqb",
             "color":"#DA1717",
-            "desc":"Close Quarter Combat SMG with high damage in close quarters and range.",
+            "desc":"Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
             "title":"Milano",
             "image":"./images/cw/milanocqb.png",
             "short":"milanocqb.png",
@@ -184,7 +241,7 @@
             "tag":"cw",
             "name":"lapa",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat",
+            "desc":"Full-auto submachine gun. Lightweight prototype with reliable damage and good firing control. Improved handling and range with slower fire rate.",
             "title":"Lapa",
             "image":"./images/cw/lapa.png",
             "short":"lapa.png",
@@ -214,7 +271,7 @@
             "tag":"cw",
             "name":"bullfrog",
             "color":"#DA1717",
-            "desc":"SMG for close quarter combat with best in class medium range damage",
+            "desc":"Full-auto submachine gun. Reliable damage with improved range. Larger ammo pool and less accurate hip fire.",
             "title":"Bullfrog",
             "image":"./images/cw/bullfrog.png",
             "short":"bullfrog.png",
@@ -244,7 +301,7 @@
             "tag":"cw",
             "name":"ppshcw",
             "color":"#DA1717",
-            "desc":"SMG for close quarter with high fire rate and good medium range damage",
+            "desc":"Full-auto submachine gun. Faster fire rate with a large bullet spread. Reliable damage range with less control when firing.",
             "title":"PPSH-41",
             "image":"./images/cw/ppshcw.png",
             "short":"ppshcw.png",
@@ -274,7 +331,7 @@
             "tag":"cw",
             "name":"streetsweeper",
             "color":"#DA1717",
-            "desc":"Shotgun with lethal close range damage and long range",
+            "desc":"Full-auto shotgun. Fastest fire rate in class with larger ammo pool. Reduced damage with reliable weapon control.",
             "title":"Streetsweeper",
             "image":"./images/cw/streetsweeper.png",
             "short":"streetsweeper.png",
@@ -304,8 +361,8 @@
             "tag":"cw",
             "name":"gallo",
             "color":"#DA1717",
-            "desc":"Shotgun with lethal close range damage and long range",
-            "title":"Gallo",
+            "desc":"Semi-auto shotgun. Reliable damage and pellet spread. Heavy recoil and low vsibility when sustaining fire.",
+            "title":"Gallo SA12",
             "image":"./images/cw/gallo.png",
             "short":"gallo.png",
             "attachments": [{
@@ -334,7 +391,7 @@
             "tag":"cw",
             "name":"ak47",
             "color":"#DA1717",
-            "desc":"Long range AR with slight vertical recoild",
+            "desc":"Full-auto assault rifle. High damage with a marginally slower fire rate. Excellent stopping power for mid range encounters.",
             "title":"Ak-47",
             "image":"./images/cw/ak47.png",
             "short":"ak47.png",
@@ -364,7 +421,7 @@
             "tag":"cw",
             "name":"ak47cqb",
             "color":"#DA1717",
-            "desc":"Close range AR with good movespeed and range, used with sniper secondary",
+            "desc":"Full-auto assault rifle. High damage with a marginally slower fire rate. Excellent stopping power for mid range encounters.",
             "title":"Ak-47",
             "image":"./images/cw/ak47CQB.png",
             "short":"ak47CQB.png",
@@ -394,7 +451,7 @@
             "tag":"cw",
             "name":"c58",
             "color":"#DA1717",
-            "desc":"Long range AR with good range and damage with high vertical recoil",
+            "desc":"Full-auto assault rifle. High damage at close range with slower fire rate. Fast bullet velocity and reliable recoil control with less ammo capacity.",
             "title":"C-58",
             "image":"./images/cw/c58.png",
             "short":"c58.png",
@@ -424,7 +481,7 @@
             "tag":"cw",
             "name":"em2",
             "color":"#DA1717",
-            "desc":"Long range AR with good range and damage with slight vertical recoil",
+            "desc":"Full-auto assault rifle. Well rounded British rifle with good firing control. Built in low-zoom optic improves accuracy. Slower fire rate with reliable range.",
             "title":"EM-2",
             "image":"./images/cw/em2.png",
             "short":"em2.png",
@@ -454,7 +511,7 @@
             "tag":"cw",
             "name":"fara83",
             "color":"#DA1717",
-            "desc":"Long range AR with good range and damage with tiny vertical recoil",
+            "desc":"Full-auto assault rifle. High fire rate and muzzle velocity provides reliable stopping power from long range. Slightly heavier recoil with slower handling speeds.",
             "title":"Fara-83",
             "image":"./images/cw/fara83.png",
             "short":"fara83.png",
@@ -514,7 +571,7 @@
             "tag":"cw",
             "name":"qbz",
             "color":"#DA1717",
-            "desc":"Long range AR with good range and damage with slight vertical recoil",
+            "desc":"Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hip fire spread.",
             "title":"QBZ",
             "image":"./images/cw/qbz.png",
             "short":"qbz.png",
@@ -543,7 +600,7 @@
             "tag":"cw",
             "name":"qbzcqb",
             "color":"#DA1717",
-            "desc":"Long range AR with good range and damage with slight vertical recoil",
+            "desc":"Full-auto assault rifle. Superior mobility with improved handling speeds. Erratic initial recoil with less accurate hip fire spread.",
             "title":"QBZ",
             "image":"./images/cw/qbzcqb.png",
             "short":"qbzcqb.png",
@@ -573,10 +630,10 @@
             "tag":"cw",
             "name":"xm4",
             "color":"#DA1717",
-            "desc":"Long range AR with very high range and damage with a high vertical recoil",
+            "desc":"Full-auto assault rifle. Reliable damage with improved fire rate. Fair weapon control when sustaining fire.",
             "title":"XM-4",
-            "image":"./images/cw/xm4.png",
-            "short":"xm4.png",
+            "image":"./images/cw/xm4.jpg",
+            "short":"xm4.jpg",
             "attachments": [{
                 "name":"Muzzle",
                 "value":"Agency Suppressor",
@@ -595,7 +652,7 @@
                 "inline":true
             },{
                 "name":"Magazine",
-                "value":"Salvo 60 Rnd Fast Mag",
+                "value":"45 Rnd",
                 "inline":true
             }]
         },
@@ -603,7 +660,7 @@
             "tag":"cw",
             "name":"stoner63",
             "color":"#DA1717",
-            "desc":"Long range LMG with good range and damage with slight vertical recoil",
+            "desc":"Full-auto light machine gun. Improved fire rate with a large ammo capacity. Good reocil control and visibility when sustaining fire.",
             "title":"Stoner-63",
             "image":"./images/cw/stoner63.png",
             "short":"stoner63.png",
@@ -633,7 +690,7 @@
             "tag":"cw",
             "name":"mg82",
             "color":"#DA1717",
-            "desc":"Long range LMG with high fire rate, good range and damage with slight vertical recoil",
+            "desc":"Full-auto light machine gun. Highest fire rate in class with improved aiming speed. Moderate recoil and damage with increased ammo capacity.",
             "title":"MG-82",
             "image":"./images/cw/mg82.png",
             "short":"mg82.png",
@@ -663,7 +720,7 @@
             "tag":"cw",
             "name":"swiss",
             "color":"#DA1717",
-            "desc":"Sniper Rifle with good ADS speed with 1 shot shield break",
+            "desc":"Bolt-action sniper rifle. Improved accuracy with moderate reocoil. Fast rechamber and aiming speed with a larger ammo capacity.",
             "title":"Swiss",
             "image":"./images/cw/swiss.png",
             "short":"swiss.png",
@@ -692,7 +749,7 @@
             "tag":"cw",
             "name":"pelington",
             "color":"#DA1717",
-            "desc":"Sniper Rifle with good ADS speed.",
+            "desc":"Bolt-action sniper rifle. Hand loaded with improved aim speeds and faster rechamber. 1-shot kill to the head or upper chest. Hold LEFT SHIFT while ADS to steady.",
             "title":"Pelington",
             "image":"./images/cw/pelington.png",
             "short":"pelington.png",
@@ -722,7 +779,7 @@
             "tag":"cw",
             "name":"carv",
             "color":"#DA1717",
-            "desc":"3 Round Burst Ranged Tactical Rifle with two burst potential",
+            "desc":"Burst fire tactical rifle. Moderate firepower with improved fire rate and recoil control. Effective at mid-to-long range.",
             "title":"Carv",
             "image":"./images/cw/carv.png",
             "short":"carv.png",
@@ -752,7 +809,7 @@
             "tag":"cw",
             "name":"m16",
             "color":"#DA1717",
-            "desc":"3 Round Burst Ranged Tactical Rifle with slight recoil and good range",
+            "desc":"Burst fire tactical rifle. Excellent burst fire accuract when aiming down sights. good visibility while firing with a slightly pronounced delay between bursts.",
             "title":"M16",
             "image":"./images/cw/m16.png",
             "short":"m16.png",
@@ -782,7 +839,7 @@
             "tag":"mw",
             "name":"kar98kmw",
             "color":"#00D4FF",
-            "desc":"Marksman Rifle with the fastest ADS speed in the game, good range and damage with 1 shot headshot knock.",
+            "desc":"Highly accurate lever action rifle. Will neutralize and enemy with one well placed round to the head or chest.",
             "title":"Kar 98k",
             "image":"./images/mw/kar98k.png",
             "short":"kar98k.png",
@@ -812,7 +869,7 @@
             "tag":"mw",
             "name":"kilo141",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "desc":"Fully automatic assault rifle with an ergonomic design that improves handling, and a steady fire rate helps stay on target.",
             "title":"Kilo 141",
             "image":"./images/mw/kilo141.png",
             "short":"kilo141.png",
@@ -841,7 +898,7 @@
             "tag":"mw",
             "name":"kilo141cqb",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "desc":"Fully automatic assault rifle with an ergonomic design that improves handling, and a steady fire rate helps stay on target.",
             "title":"Kilo 141",
             "image":"./images/mw/kilo141cqb.png",
             "short":"kilo141cqb.png",
@@ -871,7 +928,7 @@
             "tag":"mw",
             "name":"grau",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "desc":"This modular 5.56 weapon platform is lightweight and maneuverable, with exceptional range. Precision engineering and world class after-market barrels give this weapon extreme potential.",
             "title":"Grau 5.56",
             "image":"./images/mw/grau.jpg",
             "short":"grau.jpg",
@@ -901,7 +958,7 @@
             "tag":"mw",
             "name":"m13",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "desc":"Automatic assault rifle featuring a short stroke piston system that keeps a high fire rate and the recoil low.",
             "title":"M13",
             "image":"./images/mw/m13.png",
             "short":"m13.png",
@@ -930,7 +987,7 @@
             "tag":"mw",
             "name":"m13cqb",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "desc":"Automatic assault rifle featuring a short stroke piston system that keeps a high fire rate and the recoil low.",
             "title":"M13",
             "image":"./images/mw/m13cqb.png",
             "short":"m13cqb.png",
@@ -960,7 +1017,7 @@
             "tag":"mw",
             "name":"m4a1",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "desc":"Fully automatic, all purpose battle rifle. Control your shots, and this weapon can be very effective at range.",
             "title":"M4A1",
             "image":"./images/mw/m4a1.jpg",
             "short":"m4a1.jpg",
@@ -989,7 +1046,7 @@
             "tag":"mw",
             "name":"m4a1cqb",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "desc":"Fully automatic, all purpose battle rifle. Control your shots, and this weapon can be very effective at range.",
             "title":"M4A1",
             "image":"./images/mw/m4a1cqb.jpg",
             "short":"m4a1cqb.jpg",
@@ -1019,7 +1076,7 @@
             "tag":"mw",
             "name":"amax",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, good range and damage.",
+            "desc":"This lightweight 7.62 x39 mm full auto rifle assault rifle is compact and powerful. Built exclusively for military use, the standard issue rifle is deadly at mid range combat and easily configured for a variety of assault tactics.",
             "title":"CR-56 Amax",
             "image":"./images/mw/amax.jpg",
             "short":"amax.jpg",
@@ -1049,7 +1106,7 @@
             "tag":"mw",
             "name":"ram7",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "desc":"Fully automatic bullpup assault rifle with a compact design that lends itself to close quarters engagements",
             "title":"RAM-7",
             "image":"./images/mw/ram7.png",
             "short":"ram7.png",
@@ -1078,7 +1135,7 @@
             "tag":"mw",
             "name":"ram7cqb",
             "color":"#00D4FF",
-            "desc":"Long Range AR with very low recoil, fast fire rate, good range and damage.",
+            "desc":"Fully automatic bullpup assault rifle with a compact design that lends itself to close quarters engagements",
             "title":"RAM-7",
             "image":"./images/mw/ram7cqb.png",
             "short":"ram7cqb.png",
@@ -1108,7 +1165,7 @@
             "tag":"mw",
             "name":"asval",
             "color":"#00D4FF",
-            "desc":"Close Range AR with high fire rate and damage.",
+            "desc":"Chambered in subsonic 9x39mm and integrally supressed, the AS VAL is a powerhouse build for stealth, accuracy and penetration. This weapon will excel in the hands of an operator able to control heay recoil and high rate of fire.",
             "title":"AS VAL",
             "image":"./images/mw/asval.png",
             "short":"asval.png",
@@ -1138,7 +1195,7 @@
             "tag":"mw",
             "name":"mp5mw",
             "color":"#00D4FF",
-            "desc":"Close Range SMG with great hipfire accuracy, range and damage.",
+            "desc":"Fully automatic 9mm submachine gun. A perfect balance of stability, mobility, and lethality.",
             "title":"MP5",
             "image":"./images/mw/mp5mw.png",
             "short":"mp5mw.png",
@@ -1168,7 +1225,7 @@
             "tag":"mw",
             "name":"mp7",
             "color":"#00D4FF",
-            "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
+            "desc":"Compact by deisgn, this fully automatic weapon has a high rate of fire and low recoil.",
             "title":"MP7",
             "image":"./images/mw/mp7.png",
             "short":"mp7.png",
@@ -1197,7 +1254,7 @@
             "tag":"mw",
             "name":"p90",
             "color":"#00D4FF",
-            "desc":"Close Range SMG with good hipfire accuracy, high fire rate nad good close quarters/ medium range damage.",
+            "desc":"Automatic bullpup submachine gun. A Unique top mounted magazine hold carries ample high velocity 5.7x28mm ammunition.",
             "title":"P90",
             "image":"./images/mw/p90.png",
             "short":"p90.png",
@@ -1227,7 +1284,7 @@
             "tag":"mw",
             "name":"uzi",
             "color":"#00D4FF",
-            "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
+            "desc":"Fully automatic open bolt submachine gun. Simple, steady, and effective.",
             "title":"Uzi",
             "image":"./images/mw/uzi.png",
             "short":"uzi.png",
@@ -1257,7 +1314,7 @@
             "tag":"mw",
             "name":"finnlmg",
             "color":"#00D4FF",
-            "desc":"Close Range SMG with good hipfire accuracy, good medium range damage and close quarter damage.",
+            "desc":"An ultra-light open bolt 5.56 machine gun with a low cycling rate and advanced recoil controls, giving the FiNN exceptional full-auto accuracy.",
             "title":"FiNN LMG",
             "image":"./images/mw/finnlmg.jpg",
             "short":"finnlmg.jpg",
@@ -1317,7 +1374,7 @@
             "tag":"mw",
             "name":"jak12",
             "color":"#00D4FF",
-            "desc":"Full Auto shotgun with high fire rate with good range.",
+            "desc":"Fully automatic open bolt shotgun with a recoil reducing gas blowback system. This combat shotgun unloads high volumes of lead down range at a steady rate.",
             "title":"Jak-12",
             "image":"./images/mw/jak12.png",
             "short":"jak12.png",
@@ -1347,7 +1404,7 @@
             "tag":"mw",
             "name":"vlkrogue",
             "color":"#00D4FF",
-            "desc":"Two round burst shotgun with one-shot potential.",
+            "desc":"An agile 12-guage mag fed shotgun from VLK with extensive options to modify range, stability and maneuverability.",
             "title":"VLK Rogue",
             "image":"./images/mw/vlkrogue.png",
             "short":"vlkrogue.png",
@@ -1377,7 +1434,7 @@
             "tag":"vg",
             "name":"kar98kvg",
             "color":"#FFFB00",
-            "desc":"Sniper Rifle with 1 shot blue shield break, with high ADS speed.",
+            "desc":"Versatile bolt-action rifle. Immediately lethal to the torso and head.",
             "title":"Kar 98k",
             "image":"./images/vg/kar98kvg.png",
             "short":"kar98kvg.png",
@@ -1427,7 +1484,7 @@
             "tag":"vg",
             "name":"bren",
             "color":"#FFFB00",
-            "desc":"Long Range LMG with very low recoil, good fire rate and no ranged damage fall-off.",
+            "desc":"Full-auto LMG wioth accurate initial fire. Recoil becomes difficult to control with sustained fire.",
             "title":"Bren",
             "image":"./images/vg/bren.png",
             "short":"bren.png",
@@ -1477,7 +1534,7 @@
             "tag":"vg",
             "name":"kgm40",
             "color":"#FFFB00",
-            "desc":"Long Range AR with very low recoil, and consistend damage.",
+            "desc":"Workhouse assault rifle, naturally steady and accurate.",
             "title":"KG-M40",
             "image":"./images/vg/kgm40.png",
             "short":"kgm40.png",
@@ -1527,7 +1584,7 @@
             "tag":"vg",
             "name":"sten",
             "color":"#FFFB00",
-            "desc":"Close Range SMG with zero recoil, very good fire rate and damage.",
+            "desc":"High-mobility full-auto SMG ideal for flanking enemy positions..",
             "title":"Sten",
             "image":"./images/vg/sten.png",
             "short":"sten.png",
@@ -1577,7 +1634,7 @@
             "tag":"vg",
             "name":"welgun",
             "color":"#FFFB00",
-            "desc":"Close Range SMG with very high fire rate, good for close range encounters but falls-off in medium range.",
+            "desc":"Heavy full-auto SMG with leathality and range perfect for short to medium range engagements.",
             "title":"Welgun",
             "image":"./images/vg/welgun.jpg",
             "short":"welgun.jpg",
@@ -1627,7 +1684,7 @@
             "tag":"vg",
             "name":"mp40",
             "color":"#FFFB00",
-            "desc":"Close Range SMG with good fire rate, good for close and medium range encounters.",
+            "desc":"Workhorse SMG suited to all short to medium range engagements.",
             "title":"Mp40",
             "image":"./images/vg/mp40.png",
             "short":"mp40.png",
@@ -1677,7 +1734,7 @@
             "tag":"vg",
             "name":"m1912",
             "color":"#FFFB00",
-            "desc":"Close Range SMG with good fire rate, good for close and medium range encounters.",
+            "desc":"High rate-of-fire SMG with high ammo capacity. Ideal for close range engagements",
             "title":"M1912",
             "image":"./images/vg/m1912.png",
             "short":"m1912.png",
@@ -1727,58 +1784,7 @@
             "tag":"vg",
             "name":"ppshvghipfire",
             "color":"#FFFB00",
-            "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
-            "title":"Ppsh-41",
-            "image":"./images/vg/ppshvghipfire.png",
-            "short":"ppshvghipfire.png",
-            "attachments": [{
-                "name":"Muzzle",
-                "value":"Recoil Booster",
-                "inline":true
-            },{
-                "name":"Barrel",
-                "value":"Kovalevskaya 230mm B03P",
-                "inline":true
-            },{
-                "name":"Optic",
-                "value":"G16 2.5x",
-                "inline":true
-            },{
-                "name":"Stock",
-                "value":"Removed Stock",
-                "inline":true
-            },{
-                "name":"Underbarrel",
-                "value":"Carver Foregrip",
-                "inline":true
-            },{
-                "name":"Magazine",
-                "value":"8mm Nambu 71 Round Mags",
-                "inline":true
-            },{
-                "name":"Ammunition",
-                "value":"Incendiary",
-                "inline":true
-            },{
-                "name":"Rear Grip",
-                "value":"Pine Tar Grip",
-                "inline":true
-            },{
-                "name":"Perk",
-                "value":"Tight Grip",
-                "inline":true
-            },{
-                "name":"Perk2",
-                "value":"Quick",
-                "inline":true
-            }]
-        },
-        
-        {
-            "tag":"vg",
-            "name":"ppshvghipfire",
-            "color":"#FFFB00",
-            "desc":"Close Range Hipfire SMG with very high fire rate, good for close and medium range encounters.",
+            "desc":"Incredibly fast firing SMG that eliminates close range threats quickly.",
             "title":"Ppsh-41",
             "image":"./images/vg/ppshvghipfire.png",
             "short":"ppshvghipfire.png",
@@ -1828,7 +1834,7 @@
             "tag":"vg",
             "name":"owengun",
             "color":"#FFFB00",
-            "desc":"SMG with very high damage, slower fire rate but very good range damage with very little falloff",
+            "desc":"High-caliber full-auto SMG with accuracy for medium ranges.",
             "title":"Owen-Gun",
             "image":"./images/vg/owengun.png",
             "short":"owengun.png",
@@ -1878,7 +1884,7 @@
             "tag":"vg",
             "name":"stg44",
             "color":"#FFFB00",
-            "desc":"Long Range AR with high damage and no recoil.",
+            "desc":"Versatile assault rifle adaptable to any situation.",
             "title":"STG44",
             "image":"./images/vg/stg.png",
             "short":"stg.png",
@@ -1928,7 +1934,7 @@
             "tag":"vg",
             "name":"coopercarabine",
             "color":"#FFFB00",
-            "desc":"Long Range AR with high damage, high fire rate and no recoil.",
+            "desc":"This short range AR is easy to control with fast fire rate..",
             "title":"Cooper Carabine",
             "image":"./images/vg/coopercarabine.png",
             "short":"coopercarabine.png",
@@ -1978,7 +1984,7 @@
             "tag":"vg",
             "name":"automaton",
             "color":"#FFFB00",
-            "desc":"Long Range AR with high damage and slight recoil.",
+            "desc":"High-accuracy and low-recoil allow this assault rifle precision at longer ranges.",
             "title":"Automaton",
             "image":"./images/vg/automaton.png",
             "short":"automaton.png",
@@ -2028,7 +2034,7 @@
             "tag":"vg",
             "name":"volk",
             "color":"#FFFB00",
-            "desc":"Close range AR with high fire rate and damage.",
+            "desc":"Quick and mobile full-auto assault rifle. Ideal for pushing enemy positions at short to medium range.",
             "title":"Volk",
             "image":"./images/vg/volk.png",
             "short":"volk.png",
@@ -2067,6 +2073,56 @@
             },{
                 "name":"Perk",
                 "value":"Steady",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Fully Loaded",
+                "inline":true
+            }]
+        },
+        {
+            "tag":"vg",
+            "name":"doublebarrel",
+            "color":"#FFFB00",
+            "desc":"Brea-action shotgun with a fast rate-of-fire. Effective at close range.",
+            "title":"Double Barrel",
+            "image":"./images/vg/db.png",
+            "short":"db.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"M97 Full Choke",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Sawed-Off",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"G16 2.5x",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Removed Stock",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"\u200B",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"\u200B",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Buck and Slug",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Fabric Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Akimbo",
                 "inline":true
             },{
                 "name":"Perk2",

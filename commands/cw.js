@@ -79,7 +79,7 @@ module.exports = {
                 name: "qbz",
                 value: 'AR',
                 inline: true
-            },{
+            }, {
                 name: "qbzcqb",
                 value: 'AR',
                 inline: true
@@ -116,7 +116,7 @@ module.exports = {
                 value: 'PISTOL',
                 inline: true
             }, {
-                name: "amp62",
+                name: "amp63",
                 value: 'AUTO PISTOL',
                 inline: true
             });
