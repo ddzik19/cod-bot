@@ -1479,6 +1479,55 @@
                 "value":"On-Hand",
                 "inline":true
             }]
+        },{
+            "tag":"vg",
+            "name":"type100",
+            "color":"#FFFB00",
+            "desc":"High-accuracy and low recoil SMG offering additional effective range.",
+            "title":"Type 100",
+            "image":"./images/vg/type100.png",
+            "short":"type100.png",
+            "attachments": [{
+                "name":"Muzzle",
+                "value":"Recoil Booster",
+                "inline":true
+            },{
+                "name":"Barrel",
+                "value":"Warubachi 134mm Rapid",
+                "inline":true
+            },{
+                "name":"Optic",
+                "value":"Sakura Short irons",
+                "inline":true
+            },{
+                "name":"Stock",
+                "value":"Warubachi Skeletal",
+                "inline":true
+            },{
+                "name":"Underbarrel",
+                "value":"M1941 Hand Stop",
+                "inline":true
+            },{
+                "name":"Magazine",
+                "value":"8mm Kurz 48 Round Drums",
+                "inline":true
+            },{
+                "name":"Ammunition",
+                "value":"Hollow Point",
+                "inline":true
+            },{
+                "name":"Rear Grip",
+                "value":"Strippled Grip",
+                "inline":true
+            },{
+                "name":"Perk",
+                "value":"Sleight of Hand",
+                "inline":true
+            },{
+                "name":"Perk2",
+                "value":"Quick",
+                "inline":true
+            }]
         },
         {
             "tag":"vg",
