@@ -32,6 +32,10 @@ module.exports = {
                 value: 'SMG',
                 inline: true
             }, {
+                name: "lc10",
+                value: 'SMG',
+                inline: true
+            }, {
                 name: "milano",
                 value: 'SMG',
                 inline: true
@@ -98,6 +102,10 @@ module.exports = {
             }, {
                 name: "stoner63",
                 value: 'LMG',
+                inline: true
+            }, {
+                name: "dmr14",
+                value: 'TACTICAL',
                 inline: true
             }, {
                 name: "carv2",
