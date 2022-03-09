@@ -20,6 +20,10 @@ module.exports = {
                 value: "MR",
                 inline: true
             }, {
+                name: "spr",
+                value: "MR",
+                inline: true
+            }, {
                 name: "kilo141",
                 value: "AR",
                 inline: true
@@ -27,7 +31,7 @@ module.exports = {
                 name: "kilo141cqb",
                 value: "AR",
                 inline: true
-            },{
+            }, {
                 name: "grau",
                 value: "AR",
                 inline: true
@@ -35,15 +39,15 @@ module.exports = {
                 name: "ram7",
                 value: "AR",
                 inline: true
-            },{
+            }, {
                 name: "ram7cqb",
                 value: "AR",
                 inline: true
-            },{
+            }, {
                 name: "m13",
                 value: "AR",
                 inline: true
-            },{
+            }, {
                 name: "m13cqb",
                 value: "AR",
                 inline: true
@@ -63,7 +67,11 @@ module.exports = {
                 name: "m4a1cqb",
                 value: "AR",
                 inline: true
-            },{
+            }, {
+                name: "an94",
+                value: "AR",
+                inline: true
+            }, {
                 name: "ram7",
                 value: "AR",
                 inline: true

@@ -35,11 +35,15 @@ module.exports = {
                 name: "mp40",
                 value: "SMG",
                 inline: true
-            },{
+            }, {
                 name: "owengun",
                 value: "SMG",
                 inline: true
-            },{
+            }, {
+                name: "ppshvgads",
+                value: "SMG",
+                inline: true
+            }, {
                 name: "ppshvghipfire",
                 value: "SMG",
                 inline: true
