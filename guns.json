@@ -29,7 +29,6 @@
                 "inline": true
             }]
         },
-<<<<<<< Updated upstream
         {
             "tag": "cw",
             "name": "mac10",
@@ -191,150 +190,6 @@
             }, {
                 "name": "Laser",
                 "value": "Tiger Team Spotlight",
-=======
-        {
-            "tag": "cw",
-            "name": "mac10",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. Excellent fire rate with higher vertical recoil. Improved handling speeds with reduced damage.",
-            "title": "Mac-10",
-            "image": "./images/cw/mac10.png",
-            "short": "mac10.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Sound Supressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "5.9 Task Force",
->>>>>>> Stashed changes
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "Raider Stock",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-<<<<<<< Updated upstream
-                "value": "Field Agent Grip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "STANAG 50 Rnd Drum",
-=======
-                "value": "Bruiser Grip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "STANAG 53 Rnd Drum",
-                "inline": true
-            }]
-        }, {
-            "tag": "cw",
-            "name": "diamatti",
-            "color": "#DA1717",
-            "desc": "Burst fire pistol. Fast cycling rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.",
-            "title": "Diamatti",
-            "image": "./images/cw/diamatti.jpg",
-            "short": "diamatti.jpg",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Agency Supressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "7.2 Task Force",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Ember Sighting Point",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "Salvo 30 Rnd Fast Mag",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "SASR Jungle Grip",
-                "inline": true
-            }]
-        }, {
-            "tag": "cw",
-            "name": "amp63",
-            "color": "#DA1717",
-            "desc": "Burst fire pistol. Fast cycling rate of fire with a short delay between bursts. Increased ammo capacity and slightly slower reloading speeds.",
-            "title": "AMP63",
-            "image": "./images/cw/amp.jpg",
-            "short": "amp.jpg",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Agency Supressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "6.4 Task Force",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Ember Sighting Point",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "STANAG 30 Rnd",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Serpent Wrap",
-                "inline": true
-            }]
-        }, {
-            "tag": "cw",
-            "name": "ak74u",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. Improved damage with reliable weapon control. Utilizes 5.45mm ammo for superior bullet velocity.",
-            "title": "Ak74u",
-            "image": "./images/cw/ak74u.png",
-            "short": "ak74u.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Gru Supressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "10.3 Task Force",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tiger Team Spotlight",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "KGB Skeletal Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "Spetsnaz 50 Rnd Drum",
->>>>>>> Stashed changes
-                "inline": true
-            }]
-        },
-        {
-            "tag": "cw",
-<<<<<<< Updated upstream
-=======
-            "name": "mp5cw",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. Fast fire rate with low recoil. Good visibility and control while firing.",
-            "title": "Mp5",
-            "image": "./images/cw/mp5.png",
-            "short": "mp5.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Agency Supressor",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tiger Team Spotlight",
                 "inline": true
             }, {
                 "name": "Stock",
@@ -352,7 +207,6 @@
         },
         {
             "tag": "cw",
->>>>>>> Stashed changes
             "name": "milano",
             "color": "#DA1717",
             "desc": "Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
@@ -379,8 +233,6 @@
                 "name": "Magazine",
                 "value": "STANAG 55 Rnd Drum",
                 "inline": true
-<<<<<<< Updated upstream
-=======
             }]
         },
         {
@@ -441,128 +293,10 @@
                 "name": "Magazine",
                 "value": "STANAG 50 Rnd",
                 "inline": true
->>>>>>> Stashed changes
             }]
         },
         {
             "tag": "cw",
-<<<<<<< Updated upstream
-            "name": "milanocqb",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. High damage with a slower fire rate and fair recoil. Improved handling speeds with more accurate hipfire spread.",
-            "title": "Milano",
-            "image": "./images/cw/milanocqb.png",
-            "short": "milanocqb.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Agency Supressor",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "Microflex LED",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "Raider Stock",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Bruiser Grip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "STANAG 55 Rnd Drum",
-=======
-            "name": "bullfrog",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. Reliable damage with improved range. Larger ammo pool and less accurate hip fire.",
-            "title": "Bullfrog",
-            "image": "./images/cw/bullfrog.png",
-            "short": "bullfrog.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Sound Supressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "7.4 Task Force",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "KGB Skeletal Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "Spetsnaz 85 Rnd",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Serpent Wrap",
->>>>>>> Stashed changes
-                "inline": true
-            }]
-        },
-        {
-            "tag": "cw",
-<<<<<<< Updated upstream
-            "name": "lapa",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. Lightweight prototype with reliable damage and good firing control. Improved handling and range with slower fire rate.",
-            "title": "Lapa",
-            "image": "./images/cw/lapa.png",
-            "short": "lapa.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Agency Supressor",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tiger Team Spotlight",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "Microflex LED",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "SAS Combat Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "STANAG 50 Rnd",
-=======
-            "name": "ppshcw",
-            "color": "#DA1717",
-            "desc": "Full-auto submachine gun. Faster fire rate with a large bullet spread. Reliable damage range with less control when firing.",
-            "title": "PPSH-41",
-            "image": "./images/cw/ppshcw.png",
-            "short": "ppshcw.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "GRU Supressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "15.7 Task Force",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "Raider Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "55 Round Drum",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Serpent Wrap",
->>>>>>> Stashed changes
-                "inline": true
-            }]
-        },
-        {
-            "tag": "cw",
-<<<<<<< Updated upstream
             "name": "bullfrog",
             "color": "#DA1717",
             "desc": "Full-auto submachine gun. Reliable damage with improved range. Larger ammo pool and less accurate hip fire.",
@@ -588,39 +322,11 @@
             }, {
                 "name": "Magazine",
                 "value": "65 Rnd",
-=======
-            "name": "streetsweeper",
-            "color": "#DA1717",
-            "desc": "Full-auto shotgun. Fastest fire rate in class with larger ammo pool. Reduced damage with reliable weapon control.",
-            "title": "Streetsweeper",
-            "image": "./images/cw/streetsweeper.png",
-            "short": "streetsweeper.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Agency Choke",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "13.3 Reinforced Heavy",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Ember Sighting Point",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "SAS Combat Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "Stanag 18 Rnd",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "cw",
-<<<<<<< Updated upstream
             "name": "ppshcw",
             "color": "#DA1717",
             "desc": "Full-auto submachine gun. Faster fire rate with a large bullet spread. Reliable damage range with less control when firing.",
@@ -646,39 +352,11 @@
             }, {
                 "name": "Rear Grip",
                 "value": "Serpent Wrap",
-=======
-            "name": "gallo",
-            "color": "#DA1717",
-            "desc": "Semi-auto shotgun. Reliable damage and pellet spread. Heavy recoil and low vsibility when sustaining fire.",
-            "title": "Gallo SA12",
-            "image": "./images/cw/gallo.png",
-            "short": "gallo.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Duckbill Choke",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "24.6 Ranger",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Swat 5mw Laser Sight",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "STANAG 12 Rnd Tube",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Field Tape",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "cw",
-<<<<<<< Updated upstream
             "name": "streetsweeper",
             "color": "#DA1717",
             "desc": "Full-auto shotgun. Fastest fire rate in class with larger ammo pool. Reduced damage with reliable weapon control.",
@@ -704,39 +382,11 @@
             }, {
                 "name": "Magazine",
                 "value": "Stanag 18 Rnd",
-=======
-            "name": "vargo52",
-            "color": "#DA1717",
-            "desc": "Full-auto assault rifle. High damage with a marginally slower fire rate. Excellent stopping power for mid range encounters.",
-            "title": "Vargo 52",
-            "image": "./images/cw/vargo52.png",
-            "short": "vargo52.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Suppressor",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "KGB Skeletal Stock",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Bruiser Grip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "45 Rnd Speed Mag",
-                "inline": true
-            }, {
-                "name": "Reag Grip",
-                "value": "Serpent Wrap",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "cw",
-<<<<<<< Updated upstream
             "name": "gallo",
             "color": "#DA1717",
             "desc": "Semi-auto shotgun. Reliable damage and pellet spread. Heavy recoil and low vsibility when sustaining fire.",
@@ -762,33 +412,6 @@
             }, {
                 "name": "Rear Grip",
                 "value": "Field Tape",
-=======
-            "name": "ffar",
-            "color": "#DA1717",
-            "desc": "Full-auto assault rifle. Fast fire rate with quick reloading speeds. Modest damage and slightly less ammo capacity.",
-            "title": "FFAR 1",
-            "image": "./images/cw/ffar.png",
-            "short": "ffar.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Suppressor",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "Raider Stock",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Bruiser Grip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "Salvo 50 Rnd Fast Mag",
-                "inline": true
-            }, {
-                "name": "Read Grip",
-                "value": "Serpent Wrap",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
@@ -926,11 +549,7 @@
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "19.5 Liberator",
-=======
-                "value": "18.7 Spetsnaz RPK Barrel",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Optic",
@@ -942,11 +561,7 @@
                 "inline": true
             }, {
                 "name": "Magazine",
-<<<<<<< Updated upstream
                 "value": "Spetsnaz 60 Rnd",
-=======
-                "value": "VDV 60 Rnd Fast Mag",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
@@ -1186,7 +801,6 @@
                 "name": "Read Grip",
                 "value": "Dropshot Wrap",
                 "inline": true
-<<<<<<< Updated upstream
             }]
         }, {
             "tag": "cw",
@@ -1216,8 +830,6 @@
                 "name": "Magazine",
                 "value": "30 Rnd Drum",
                 "inline": true
-=======
->>>>>>> Stashed changes
             }]
         },
         {
@@ -1282,28 +894,18 @@
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "an94",
             "color": "#00D4FF",
             "desc": "Cutting edge 5.45x38mm Russian assault rifle with unique hyperburst feature. The initial shot from each trigger pull fires a rapid 2-round burst before perceived recoil is felt, creating a tightly grouped cluster with increased damage potential. This mechanism is fed by a canted magazine, and a reciprocating reciever helps keep control of the recoil.",
             "title": "AN-94",
             "image": "./images/mw/an94.png",
             "short": "an94.png",
-=======
-            "name": "kar98kmw",
-            "color": "#00D4FF",
-            "desc": "Highly accurate lever action rifle. Will neutralize and enemy with one well placed round to the head or chest.",
-            "title": "Kar 98k",
-            "image": "./images/mw/kar98k.png",
-            "short": "kar98k.png",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "An-94 Factory X-438mm",
                 "inline": true
             }, {
@@ -1317,106 +919,24 @@
             }, {
                 "name": "Magazine",
                 "value": "60 Round Casket Mags",
-=======
-                "value": "Singuard Custom 27.6",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tac Laser",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "Sniper Scope",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Sleight of Hand",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "kar98kmw",
             "color": "#00D4FF",
             "desc": "Highly accurate lever action rifle. Will neutralize and enemy with one well placed round to the head or chest.",
             "title": "Kar 98k",
             "image": "./images/mw/kar98k.png",
             "short": "kar98k.png",
-=======
-            "name": "kilo141",
-            "color": "#00D4FF",
-            "desc": "Fully automatic assault rifle with an ergonomic design that improves handling, and a steady fire rate helps stay on target.",
-            "title": "Kilo 141",
-            "image": "./images/mw/kilo141.png",
-            "short": "kilo141.png",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "Singuard Custom 27.6",
-=======
-                "value": "Singuard Arms 19.8 Prowler Barrel",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "VLK 3.0x Optic",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Commando Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "60 Round Mags",
-                "inline": true
-            }]
-        }, {
-            "tag": "mw",
-            "name": "kilo141cqb",
-            "color": "#00D4FF",
-            "desc": "Fully automatic assault rifle with an ergonomic design that improves handling, and a steady fire rate helps stay on target.",
-            "title": "Kilo 141",
-            "image": "./images/mw/kilo141cqb.png",
-            "short": "kilo141cqb.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolothic Suppressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "Singuard Arms 19.8 Prowler Barrel",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tac Laser",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Commando Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "60 Round Mags",
-                "inline": true
-            }]
-        }, {
-            "tag": "mw",
-            "name": "scar",
-            "color": "#00D4FF",
-            "desc": "Fully automatic assault rifle with increased damage and range.",
-            "title": "Scar-H",
-            "image": "./images/mw/scar.png",
-            "short": "scar.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolothic Suppressor",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Laser",
@@ -1424,54 +944,29 @@
                 "inline": true
             }, {
                 "name": "Optic",
-<<<<<<< Updated upstream
                 "value": "Sniper Scope",
                 "inline": true
             }, {
                 "name": "Perk",
                 "value": "Sleight of Hand",
-=======
-                "value": "Corp Combat Holo Sight",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Commando Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "30 Round Mags",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "kilo141",
             "color": "#00D4FF",
             "desc": "Fully automatic assault rifle with an ergonomic design that improves handling, and a steady fire rate helps stay on target.",
             "title": "Kilo 141",
             "image": "./images/mw/kilo141.png",
             "short": "kilo141.png",
-=======
-            "name": "grau",
-            "color": "#00D4FF",
-            "desc": "This modular 5.56 weapon platform is lightweight and maneuverable, with exceptional range. Precision engineering and world class after-market barrels give this weapon extreme potential.",
-            "title": "Grau 5.56",
-            "image": "./images/mw/grau.jpg",
-            "short": "grau.jpg",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "Singuard Arms 19.8 Prowler Barrel",
-=======
-                "value": "Tempus 26.4 Archangel",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Optic",
@@ -1485,7 +980,6 @@
                 "name": "Ammunition",
                 "value": "60 Round Mags",
                 "inline": true
-<<<<<<< Updated upstream
             }]
         }, {
             "tag": "mw",
@@ -1515,38 +1009,23 @@
                 "name": "Ammunition",
                 "value": "60 Round Mags",
                 "inline": true
-=======
->>>>>>> Stashed changes
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "grau",
             "color": "#00D4FF",
             "desc": "This modular 5.56 weapon platform is lightweight and maneuverable, with exceptional range. Precision engineering and world class after-market barrels give this weapon extreme potential.",
             "title": "Grau 5.56",
             "image": "./images/mw/grau.jpg",
             "short": "grau.jpg",
-=======
-            "name": "m13",
-            "color": "#00D4FF",
-            "desc": "Automatic assault rifle featuring a short stroke piston system that keeps a high fire rate and the recoil low.",
-            "title": "M13",
-            "image": "./images/mw/m13.png",
-            "short": "m13.png",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "Tempus 26.4 Archangel",
-=======
-                "value": "Tempus Marksman",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Optic",
@@ -1560,68 +1039,23 @@
                 "name": "Ammunition",
                 "value": "60 Round Mags",
                 "inline": true
-<<<<<<< Updated upstream
-=======
-            }]
-        }, {
-            "tag": "mw",
-            "name": "m13cqb",
-            "color": "#00D4FF",
-            "desc": "Automatic assault rifle featuring a short stroke piston system that keeps a high fire rate and the recoil low.",
-            "title": "M13",
-            "image": "./images/mw/m13cqb.png",
-            "short": "m13cqb.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolothic Suppressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "Tempus Marksman",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "Corp Combat Holo Sight",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Commando Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "60 Round Mags",
-                "inline": true
->>>>>>> Stashed changes
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "m13",
             "color": "#00D4FF",
             "desc": "Automatic assault rifle featuring a short stroke piston system that keeps a high fire rate and the recoil low.",
             "title": "M13",
             "image": "./images/mw/m13.png",
             "short": "m13.png",
-=======
-            "name": "m4a1",
-            "color": "#00D4FF",
-            "desc": "Fully automatic, all purpose battle rifle. Control your shots, and this weapon can be very effective at range.",
-            "title": "M4A1",
-            "image": "./images/mw/m4a1.jpg",
-            "short": "m4a1.jpg",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "Tempus Marksman",
-=======
-                "value": "Stock M16 Grenadier",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Optic",
@@ -1629,11 +1063,7 @@
                 "inline": true
             }, {
                 "name": "Underbarrel",
-<<<<<<< Updated upstream
                 "value": "Commando Foregrip",
-=======
-                "value": "Ranger Foregrip",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Ammunition",
@@ -1642,27 +1072,17 @@
             }]
         }, {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "m13cqb",
             "color": "#00D4FF",
             "desc": "Automatic assault rifle featuring a short stroke piston system that keeps a high fire rate and the recoil low.",
             "title": "M13",
             "image": "./images/mw/m13cqb.png",
             "short": "m13cqb.png",
-=======
-            "name": "m4a1cqb",
-            "color": "#00D4FF",
-            "desc": "Fully automatic, all purpose battle rifle. Control your shots, and this weapon can be very effective at range.",
-            "title": "M4A1",
-            "image": "./images/mw/m4a1cqb.jpg",
-            "short": "m4a1cqb.jpg",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
-<<<<<<< Updated upstream
                 "name": "Barrel",
                 "value": "Tempus Marksman",
                 "inline": true
@@ -1677,53 +1097,24 @@
             }, {
                 "name": "Ammunition",
                 "value": "60 Round Mags",
-=======
-                "name": "Laser",
-                "value": "Tac Laser",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Merc Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "9mm Para 32-Round Mags",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Sleight of Hand",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "m4a1",
             "color": "#00D4FF",
             "desc": "Fully automatic, all purpose battle rifle. Control your shots, and this weapon can be very effective at range.",
             "title": "M4A1",
             "image": "./images/mw/m4a1.jpg",
             "short": "m4a1.jpg",
-=======
-            "name": "amax",
-            "color": "#00D4FF",
-            "desc": "This lightweight 7.62 x39 mm full auto rifle assault rifle is compact and powerful. Built exclusively for military use, the standard issue rifle is deadly at mid range combat and easily configured for a variety of assault tactics.",
-            "title": "CR-56 Amax",
-            "image": "./images/mw/amax.jpg",
-            "short": "amax.jpg",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "Stock M16 Grenadier",
-=======
-                "value": "XRK Zodiac S440",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Optic",
@@ -1731,7 +1122,6 @@
                 "inline": true
             }, {
                 "name": "Underbarrel",
-<<<<<<< Updated upstream
                 "value": "Ranger Foregrip",
                 "inline": true
             }, {
@@ -1766,44 +1156,24 @@
             }, {
                 "name": "Perk",
                 "value": "Sleight of Hand",
-=======
-                "value": "Commando Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "45 Round Mags",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "amax",
             "color": "#00D4FF",
             "desc": "This lightweight 7.62 x39 mm full auto rifle assault rifle is compact and powerful. Built exclusively for military use, the standard issue rifle is deadly at mid range combat and easily configured for a variety of assault tactics.",
             "title": "CR-56 Amax",
             "image": "./images/mw/amax.jpg",
             "short": "amax.jpg",
-=======
-            "name": "ram7",
-            "color": "#00D4FF",
-            "desc": "Fully automatic bullpup assault rifle with a compact design that lends itself to close quarters engagements",
-            "title": "RAM-7",
-            "image": "./images/mw/ram7.png",
-            "short": "ram7.png",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Monolothic Suppressor",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "XRK Zodiac S440",
-=======
-                "value": "FSS Ranger",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Optic",
@@ -1815,46 +1185,12 @@
                 "inline": true
             }, {
                 "name": "Ammunition",
-<<<<<<< Updated upstream
                 "value": "45 Round Mags",
-=======
-                "value": "50 Round Mags",
-                "inline": true
-            }]
-        }, {
-            "tag": "mw",
-            "name": "ram7cqb",
-            "color": "#00D4FF",
-            "desc": "Fully automatic bullpup assault rifle with a compact design that lends itself to close quarters engagements",
-            "title": "RAM-7",
-            "image": "./images/mw/ram7cqb.png",
-            "short": "ram7cqb.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolothic Suppressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "FSS Ranger",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "PBX Holo 7 Sight",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Commando Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "50 Round Mags",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "ram7",
             "color": "#00D4FF",
             "desc": "Fully automatic bullpup assault rifle with a compact design that lends itself to close quarters engagements",
@@ -1872,28 +1208,12 @@
             }, {
                 "name": "Optic",
                 "value": "VLK 3.0x Optic",
-=======
-            "name": "asval",
-            "color": "#00D4FF",
-            "desc": "Chambered in subsonic 9x39mm and integrally supressed, the AS VAL is a powerhouse build for stealth, accuracy and penetration. This weapon will excel in the hands of an operator able to control heay recoil and high rate of fire.",
-            "title": "AS VAL",
-            "image": "./images/mw/asval.png",
-            "short": "asval.png",
-            "attachments": [{
-                "name": "Barrel",
-                "value": "VLK 200mm Osa",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tac Laser",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Underbarrel",
                 "value": "Commando Foregrip",
                 "inline": true
             }, {
-<<<<<<< Updated upstream
                 "name": "Ammunition",
                 "value": "50 Round Mags",
                 "inline": true
@@ -1925,20 +1245,11 @@
             }, {
                 "name": "Ammunition",
                 "value": "50 Round Mags",
-=======
-                "name": "Magazine",
-                "value": "30 Round Mags",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Stippled Grip Tape",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "asval",
             "color": "#00D4FF",
             "desc": "Chambered in subsonic 9x39mm and integrally supressed, the AS VAL is a powerhouse build for stealth, accuracy and penetration. This weapon will excel in the hands of an operator able to control heay recoil and high rate of fire.",
@@ -1948,17 +1259,6 @@
             "attachments": [{
                 "name": "Barrel",
                 "value": "VLK 200mm Osa",
-=======
-            "name": "aug",
-            "color": "#00D4FF",
-            "desc": "A modular fully automatic weapon configured for mobility and close range combat.",
-            "title": "AUG",
-            "image": "./images/mw/aug.png",
-            "short": "aug.png",
-            "attachments": [{
-                "name": "Barrel",
-                "value": "Monolithic Suppressor",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Laser",
@@ -1970,25 +1270,16 @@
                 "inline": true
             }, {
                 "name": "Magazine",
-<<<<<<< Updated upstream
                 "value": "30 Round Mags",
                 "inline": true
             }, {
                 "name": "Rear Grip",
                 "value": "Stippled Grip Tape",
-=======
-                "value": "5.56 NATO 30-Round Mags",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Sleight of Hand",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "spr",
             "color": "#00D4FF",
             "desc": "Reliable, hard-hitting .300 Win bolt action rifle from Sloan Precision. This weapon's extensive military and civilian use gives rise to an abundance of customization.",
@@ -2014,39 +1305,11 @@
             }, {
                 "name": "Magazine",
                 "value": ".300 Norma Mag 5-R Mags",
-=======
-            "name": "mp5mw",
-            "color": "#00D4FF",
-            "desc": "Fully automatic 9mm submachine gun. A perfect balance of stability, mobility, and lethality.",
-            "title": "MP5",
-            "image": "./images/mw/mp5mw.png",
-            "short": "mp5mw.png",
-            "attachments": [{
-                "name": "Barrel",
-                "value": "Monolithic Integral Suppressor",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "5mW Laser",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "FTAC Collapsible",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Merc Foregrip",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "45 Round Mags",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "mp5mw",
             "color": "#00D4FF",
             "desc": "Fully automatic 9mm submachine gun. A perfect balance of stability, mobility, and lethality.",
@@ -2060,21 +1323,6 @@
             }, {
                 "name": "Stock",
                 "value": "FTAC Collapsible",
-=======
-            "name": "mp7",
-            "color": "#00D4FF",
-            "desc": "Compact by deisgn, this fully automatic weapon has a high rate of fire and low recoil.",
-            "title": "MP7",
-            "image": "./images/mw/mp7.png",
-            "short": "mp7.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolithic Suppressor",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tac Laser",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Underbarrel",
@@ -2082,54 +1330,16 @@
                 "inline": true
             }, {
                 "name": "Magazine",
-<<<<<<< Updated upstream
                 "value": "10mm Auto 30-Round Mags",
                 "inline": true
             }, {
                 "name": "Perk",
                 "value": "Sleight of Hand",
-=======
-                "value": "60 Round Mags",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Strippled Grip Tape",
-                "inline": true
-            }]
-        }, {
-            "tag": "mw",
-            "name": "p90",
-            "color": "#00D4FF",
-            "desc": "Automatic bullpup submachine gun. A Unique top mounted magazine hold carries ample high velocity 5.7x28mm ammunition.",
-            "title": "P90",
-            "image": "./images/mw/p90.png",
-            "short": "p90.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolithic Suppressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "FSS 10.6 Pro",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tac Laser",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Strippled Grip Tape",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Strippled Grip Tape",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "mp7",
             "color": "#00D4FF",
             "desc": "Compact by deisgn, this fully automatic weapon has a high rate of fire and low recoil.",
@@ -2184,7 +1394,11 @@
             }, {
                 "name": "Rear Grip",
                 "value": "Strippled Grip Tape",
-=======
+                "inline": true
+            }]
+        },
+        {
+            "tag": "mw",
             "name": "uzi",
             "color": "#00D4FF",
             "desc": "Fully automatic open bolt submachine gun. Simple, steady, and effective.",
@@ -2210,39 +1424,11 @@
             }, {
                 "name": "Perk",
                 "value": "Sleight of Hand",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
-            "name": "uzi",
-            "color": "#00D4FF",
-            "desc": "Fully automatic open bolt submachine gun. Simple, steady, and effective.",
-            "title": "Uzi",
-            "image": "./images/mw/uzi.png",
-            "short": "uzi.png",
-            "attachments": [{
-                "name": "Barrel",
-                "value": "FSS Carabine Pro",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "G.I. Mini Reflex",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "No Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": ".41 AE 32-Round MAgs",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Sleight of Hand",
-=======
             "name": "finnlmg",
             "color": "#00D4FF",
             "desc": "An ultra-light open bolt 5.56 machine gun with a low cycling rate and advanced recoil controls, giving the FiNN exceptional full-auto accuracy.",
@@ -2268,65 +1454,11 @@
             }, {
                 "name": "Underbarrel",
                 "value": "Ranger Foregrip",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
-            "name": "finnlmg",
-            "color": "#00D4FF",
-            "desc": "An ultra-light open bolt 5.56 machine gun with a low cycling rate and advanced recoil controls, giving the FiNN exceptional full-auto accuracy.",
-            "title": "FiNN LMG",
-            "image": "./images/mw/finnlmg.jpg",
-            "short": "finnlmg.jpg",
-=======
-            "name": "sykov",
-            "color": "#00D4FF",
-            "desc": "Full Auto close range Pistol with high fire rate and close range damage.",
-            "title": "FiNN LMG",
-            "image": "./images/mw/sykov.png",
-            "short": "sykov.png",
->>>>>>> Stashed changes
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Monolithic Suppressor",
-                "inline": true
-            }, {
-                "name": "Barrel",
-<<<<<<< Updated upstream
-                "value": "XRX LongShot Adverse",
-=======
-                "value": "Sorokin 140mm Auto",
->>>>>>> Stashed changes
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "Tac Laser",
-                "inline": true
-            }, {
-<<<<<<< Updated upstream
-                "name": "Optic",
-                "value": "VLK 3.0x Optic",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Ranger Foregrip",
-=======
-                "name": "Magazine",
-                "value": "80 Round Drum",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "VLK Prizrak",
->>>>>>> Stashed changes
-                "inline": true
-            }]
-        },
-        {
-            "tag": "mw",
-<<<<<<< Updated upstream
             "name": "sykov",
             "color": "#00D4FF",
             "desc": "Full Auto close range Pistol with high fire rate and close range damage.",
@@ -2352,90 +1484,40 @@
             }, {
                 "name": "Rear Grip",
                 "value": "VLK Prizrak",
-=======
-            "name": "jak12",
-            "color": "#00D4FF",
-            "desc": "Fully automatic open bolt shotgun with a recoil reducing gas blowback system. This combat shotgun unloads high volumes of lead down range at a steady rate.",
-            "title": "Jak-12",
-            "image": "./images/mw/jak12.png",
-            "short": "jak12.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "FORGE TAC Marauder",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "SLR J-3600 Torrent",
-                "inline": true
-            }, {
-                "name": "Laser",
-                "value": "5mW Laser",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "20 Round Drum Mags",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Fragile - Disabling",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "mw",
-<<<<<<< Updated upstream
             "name": "jak12",
             "color": "#00D4FF",
             "desc": "Fully automatic open bolt shotgun with a recoil reducing gas blowback system. This combat shotgun unloads high volumes of lead down range at a steady rate.",
             "title": "Jak-12",
             "image": "./images/mw/jak12.png",
             "short": "jak12.png",
-=======
-            "name": "vlkrogue",
-            "color": "#00D4FF",
-            "desc": "An agile 12-guage mag fed shotgun from VLK with extensive options to modify range, stability and maneuverability.",
-            "title": "VLK Rogue",
-            "image": "./images/mw/vlkrogue.png",
-            "short": "vlkrogue.png",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "FORGE TAC Marauder",
                 "inline": true
             }, {
                 "name": "Barrel",
-<<<<<<< Updated upstream
                 "value": "SLR J-3600 Torrent",
-=======
-                "value": "16 Warlord",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Laser",
                 "value": "5mW Laser",
                 "inline": true
             }, {
-<<<<<<< Updated upstream
                 "name": "Magazine",
                 "value": "20 Round Drum Mags",
                 "inline": true
             }, {
                 "name": "Perk",
                 "value": "Fragile - Disabling",
-=======
-                "name": "Stock",
-                "value": "No Stock",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "8-R Dragon's Breath",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
-<<<<<<< Updated upstream
             "tag": "mw",
             "name": "vlkrogue",
             "color": "#00D4FF",
@@ -2462,7 +1544,10 @@
             }, {
                 "name": "Magazine",
                 "value": "8-R Dragon's Breath",
-=======
+                "inline": true
+            }]
+        },
+        {
             "tag": "vg",
             "name": "kar98kvg",
             "color": "#FFFB00",
@@ -2558,108 +1643,11 @@
             }, {
                 "name": "Perk2",
                 "value": "Quick",
->>>>>>> Stashed changes
                 "inline": true
             }]
         },
         {
             "tag": "vg",
-<<<<<<< Updated upstream
-            "name": "kar98kvg",
-            "color": "#FFFB00",
-            "desc": "Versatile bolt-action rifle. Immediately lethal to the torso and head.",
-            "title": "Kar 98k",
-            "image": "./images/vg/kar98kvg.png",
-            "short": "kar98kvg.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "SD Silencer",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "VDD RE02K",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "\u200B",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "Short Stock",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Heavy Foregrip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "\u200B",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "FMJ Rounds / Lenghtened",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Leather Grip",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Shrouded",
-                "inline": true
-            }, {
-                "name": "Perk2",
-                "value": "On-Hand",
-                "inline": true
-            }]
-        }, {
-            "tag": "vg",
-            "name": "type100",
-            "color": "#FFFB00",
-            "desc": "High-accuracy and low recoil SMG offering additional effective range.",
-            "title": "Type 100",
-            "image": "./images/vg/type100.png",
-            "short": "type100.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Recoil Booster",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "Warubachi 134mm Rapid",
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "Sakura Short irons",
-                "inline": true
-            }, {
-                "name": "Stock",
-                "value": "Warubachi Skeletal",
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "M1941 Hand Stop",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "8mm Kurz 48 Round Drums",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "Hollow Point",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Strippled Grip",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Sleight of Hand",
-                "inline": true
-            }, {
-                "name": "Perk2",
-                "value": "Quick",
-=======
             "name": "bren",
             "color": "#FFFB00",
             "desc": "Full-auto LMG wioth accurate initial fire. Recoil becomes difficult to control with sustained fire.",
@@ -2701,89 +1689,6 @@
             }, {
                 "name": "Perk",
                 "value": "Tight Grip",
-                "inline": true
-            }, {
-                "name": "Perk2",
-                "value": "Fully Loaded",
->>>>>>> Stashed changes
-                "inline": true
-            }]
-        },
-        {
-            "tag": "vg",
-<<<<<<< Updated upstream
-            "name": "bren",
-            "color": "#FFFB00",
-            "desc": "Full-auto LMG wioth accurate initial fire. Recoil becomes difficult to control with sustained fire.",
-            "title": "Bren",
-            "image": "./images/vg/bren.png",
-            "short": "bren.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Mercury Silencer",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "Queens 775mm Specter",
-=======
-            "name": "bar",
-            "color": "#FFFB00",
-            "desc": "The Browning automatic rifle is a squad support weapon, used to lay down accurate suppression fire at enemy positions. It is most effective when used while prone.",
-            "title": "Bar",
-            "image": "./images/vg/bar.png",
-            "short": "bar.png",
-            "attachments": [{
-                "name": "Muzzle",
-                "value": "Recoil Booster",
-                "inline": true
-            }, {
-                "name": "Barrel",
-                "value": "CGC 30 XL",
->>>>>>> Stashed changes
-                "inline": true
-            }, {
-                "name": "Optic",
-                "value": "G16 2.5x",
-                "inline": true
-            }, {
-                "name": "Stock",
-<<<<<<< Updated upstream
-                "value": "Queen's Model 11 BH",
-=======
-                "value": "Pistol Grip Custom",
->>>>>>> Stashed changes
-                "inline": true
-            }, {
-                "name": "Underbarrel",
-                "value": "Carver Foregrip",
-                "inline": true
-            }, {
-                "name": "Magazine",
-<<<<<<< Updated upstream
-                "value": "6.5 Sakura 40 Round Mag",
-=======
-                "value": "8mm Klauser 20 Round Mags",
->>>>>>> Stashed changes
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "Lenghtened",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-<<<<<<< Updated upstream
-                "value": "Taped Grip",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Tight Grip",
-=======
-                "value": "Rubber Grip",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Hardscope",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Perk2",
@@ -2897,13 +1802,8 @@
             "color": "#FFFB00",
             "desc": "Heavy full-auto SMG with leathality and range perfect for short to medium range engagements.",
             "title": "Welgun",
-<<<<<<< Updated upstream
             "image": "./images/vg/welgun.png",
             "short": "welgun.png",
-=======
-            "image": "./images/vg/welgun.jpg",
-            "short": "welgun.jpg",
->>>>>>> Stashed changes
             "attachments": [{
                 "name": "Muzzle",
                 "value": "Recoil Booster",
@@ -2918,11 +1818,7 @@
                 "inline": true
             }, {
                 "name": "Stock",
-<<<<<<< Updated upstream
                 "value": "Gawain S-Custom",
-=======
-                "value": "Gawain Skeletal",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Underbarrel",
@@ -2930,19 +1826,11 @@
                 "inline": true
             }, {
                 "name": "Magazine",
-<<<<<<< Updated upstream
                 "value": "Gorenko 40 Round Mags",
                 "inline": true
             }, {
                 "name": "Ammunition",
                 "value": "Hollow Point",
-=======
-                "value": "9mm 64 Round Mags",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "Incendiary",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Rear Grip",
@@ -2976,11 +1864,7 @@
                 "inline": true
             }, {
                 "name": "Optic",
-<<<<<<< Updated upstream
                 "value": "Krausnick IS01M",
-=======
-                "value": "Krausnick IS02M",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Stock",
@@ -2988,7 +1872,6 @@
                 "inline": true
             }, {
                 "name": "Underbarrel",
-<<<<<<< Updated upstream
                 "value": "Mark VI Skeletal",
                 "inline": true
             }, {
@@ -3006,25 +1889,6 @@
             }, {
                 "name": "Perk",
                 "value": "Unmarked",
-=======
-                "value": "M1941 Hand Stop",
-                "inline": true
-            }, {
-                "name": "Magazine",
-                "value": "Gorenko 45 Round Mags",
-                "inline": true
-            }, {
-                "name": "Ammunition",
-                "value": "Hollow Point",
-                "inline": true
-            }, {
-                "name": "Rear Grip",
-                "value": "Polymer Grip",
-                "inline": true
-            }, {
-                "name": "Perk",
-                "value": "Brace",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Perk2",
@@ -3080,7 +1944,6 @@
                 "name": "Perk2",
                 "value": "Quick",
                 "inline": true
-<<<<<<< Updated upstream
             }]
         }, {
             "tag": "vg",
@@ -3130,8 +1993,6 @@
                 "name": "Perk2",
                 "value": "Quick",
                 "inline": true
-=======
->>>>>>> Stashed changes
             }]
         },
         {
@@ -3210,11 +2071,7 @@
                 "inline": true
             }, {
                 "name": "Underbarrel",
-<<<<<<< Updated upstream
                 "value": "Mark VI Skeletal",
-=======
-                "value": "M1941 Hand Stop",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Magazine",
@@ -3222,11 +2079,7 @@
                 "inline": true
             }, {
                 "name": "Ammunition",
-<<<<<<< Updated upstream
                 "value": "Lenghtened",
-=======
-                "value": "Hollow Point",
->>>>>>> Stashed changes
                 "inline": true
             }, {
                 "name": "Rear Grip",

@@ -110,7 +110,7 @@ client.on("messageCreate", msg => {
                                     value: guns[i].attachments[4].value,
                                     inline: guns[i].attachments[4].inline
                                 }, {
-                                    name: "\u200B", // \u200B is a blank space
+                                    name: "\u200B",// \u200B is a blank space
                                     value: "\u200B",
                                     inline: true
                                 })
