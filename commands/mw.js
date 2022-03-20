@@ -36,6 +36,10 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
+                name: "scar",
+                value: "AR",
+                inline: true
+            }, {
                 name: "ram7",
                 value: "AR",
                 inline: true
@@ -68,10 +72,13 @@ module.exports = {
                 value: "AR",
                 inline: true
             }, {
+<<<<<<< Updated upstream
                 name: "an94",
                 value: "AR",
                 inline: true
             }, {
+=======
+>>>>>>> Stashed changes
                 name: "ram7",
                 value: "AR",
                 inline: true
@@ -81,6 +88,10 @@ module.exports = {
                 inline: true
             }, {
                 name: "mp7",
+                value: "SMG",
+                inline: true
+            }, {
+                name: "aug",
                 value: "SMG",
                 inline: true
             }, {

@@ -88,6 +88,14 @@ module.exports = {
                 value: 'AR',
                 inline: true
             }, {
+                name: "vargo52",
+                value: 'AR',
+                inline: true
+            }, {
+                name: "ffar",
+                value: 'AR',
+                inline: true
+            }, {
                 name: "streetsweeper",
                 value: 'SHOTGUN',
                 inline: true

@@ -40,10 +40,13 @@ module.exports = {
                 value: "SMG",
                 inline: true
             }, {
+<<<<<<< Updated upstream
                 name: "ppshvgads",
                 value: "SMG",
                 inline: true
             }, {
+=======
+>>>>>>> Stashed changes
                 name: "ppshvghipfire",
                 value: "SMG",
                 inline: true
@@ -53,6 +56,10 @@ module.exports = {
                 inline: true
             }, {
                 name: "stg44",
+                value: "AR",
+                inline: true
+            }, {
+                name: "bar",
                 value: "AR",
                 inline: true
             }, {
