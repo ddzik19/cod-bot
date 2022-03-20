@@ -74,7 +74,7 @@ module.exports = {
             });
 
         // creating the embed and sending it to the chat
-        msg.channel.send({
+        return msg.channel.send({
             embeds: [newEmbed]
         });
     }
