@@ -14,6 +14,7 @@ const {
     MessageEmbed,
     MessageAttachment
 } = require('discord.js')
+
 const client = new Client({
     restTimeOffset: 0,
     intents: [Intents.FLAGS.GUILDS,
@@ -45,6 +46,40 @@ for (const file of commandFiles) {
 // when bot is logged in display message
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
+})
+
+// getting the json file
+let userList = require('./warzoneProfiles.json');
+// parsing the userList into a js object
+let users = JSON.parse(userList.users);
+
+// user presence 
+client.on('presenceUpdate',(oldPresence,newPresence) => {
+    var game;
+    // loop through the users
+    for(var i = 0; i < users.length; i++){
+        // setting an id of a user to user variable 
+        var user = users[i].id;
+        // check if the id of the presence is the same as the id of the user in the json file
+        if(newPresence.user.id === user){
+            // if the id's match then set start time to the current time 
+            game =  newPresence.presence.game;
+            console.log(game)
+            return;
+        }else{
+            // if there is no record of the user id then create
+            // new user object and push it to the json file
+            newUser = {
+                "userName":newPresence.user.username,
+                "userId":newPresence.user.id,
+                "level": 0,
+                "xp": 0,
+                "startTime": 0,
+                "endTime":0
+            }
+            users.push(newUser);
+        }
+    }
 })
 
 // commands
