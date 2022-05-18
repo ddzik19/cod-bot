@@ -15,7 +15,7 @@ I have not created many issues or versions as my Git knowledge was not very good
 - !cod.mw = displays all guns from Cod Modern Warfare
 - !cod.cw = displays all guns from Cod Cold War
 - !cod.vg = displays all guns from Cod Vanguard
-- !build.gunName = displays a gun build for specified gun
+- !build.gunName = displays a gun build for specified gun (!build.kar98kmw)
 
 ## Contributution
 
